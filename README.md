@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am Programmer👩‍💻 and I love animals and Curry🍛.
+I am programmer👩‍💻. <br>
+I love animals and Curry🍛. <br>
+I like [COTENRADIO](https://www.youtube.com/c/cotenradio) and I am COTENCREW.<br>
+<img src="crew-logo-03.png" width="100"/>
 
 <!--
 **itachi-P/itachi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... Nothing
-- 🌱 I’m currently learning ... Go(Golang), AWS, TypeScript, Next.js(React), fastapi
+- 🌱 I’m currently learning ... Go(Golang), AWS, TypeScript, Next.js(React), FastAPI
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
 
