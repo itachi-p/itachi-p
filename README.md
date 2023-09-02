@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am programmer👩‍💻. <br>
-I love animals and Curry🍛. <br>
+I am programmer👩‍💻 and I love animals and Curry🍛. <br>
 I like [COTENRADIO](https://www.youtube.com/c/cotenradio) and I am COTENCREW.<br>
 <img src="crew-logo-03.png" width="100"/>
 
@@ -13,8 +12,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Nothing
 - 🌱 I’m currently learning ... Go(Golang), AWS, TypeScript, Next.js(React), FastAPI
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
 
 ### [skillicons.dev](https://skillicons.dev)
 <p align="left">
