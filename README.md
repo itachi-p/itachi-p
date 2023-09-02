@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ### [skillicons.dev](https://skillicons.dev)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,gcp,heroku,supabase,vercel,docker,gradle" /><br />
-    <img src="https://skillicons.dev/icons?i=go,php,laravel,ruby,rails,py,selenium,fastapi,solidity" /><br />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,netlify,dart,flutter,firebase" /><br />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,supabase,vercel,docker,gradle" /><br />
+    <img src="https://skillicons.dev/icons?i=go,php,laravel,heroku,ruby,rails,py,selenium,fastapi,solidity" /><br />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,netlify,dart,flutter,firebase,gcp" /><br />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb" /><br />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,wordpress" /><br />
     <img src="https://skillicons.dev/icons?i=java,eclipse,c,cs,dotnet,perl,lua" /><br />
