@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
-I am programmer👩‍💻 and I love animals🐻🐯🐘🦊🐹🦇🦎🐝🐛 and vegetable curry🍛.  
+I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio" target="_blank">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/>
 
-#### 最近の作成テストApps（主に学習の一貫としての写経）
+#### Recently created test Apps (Mainly transcriptions as a consistent part of learning)
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
 - Python & Selenium & pandas🐼 & (FastAPI | Flasc) によるWebスクレイピング （API化の為のWAF選定中）
@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,supabase,vercel,docker,gradle" /><br />
-    <img src="https://skillicons.dev/icons?i=go,php,laravel,heroku,ruby,rails,py,selenium,fastapi,solidity" /><br />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,netlify,dart,flutter,firebase,gcp" /><br />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,docker,gradle" /><br />
+    <img src="https://skillicons.dev/icons?i=go,supabase,tailwind,py,selenium,fastapi,php,laravel,heroku,ruby,rails,solidity" /><br />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vercel,redux,netlify,dart,flutter,firebase,gcp" /><br />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb" /><br />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,wordpress" /><br />
-    <img src="https://skillicons.dev/icons?i=java,eclipse,c,cs,dotnet,perl,lua" /><br />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,wordpress,java,eclipse,c,cs,dotnet,perl,lua" /><br />
   </a>
 </p>
 
