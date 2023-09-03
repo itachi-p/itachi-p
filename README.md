@@ -2,11 +2,17 @@
 
 I am programmer👩‍💻 and I love animals and Curry🍛. <br>
 I like [COTENRADIO](https://www.youtube.com/c/cotenradio) and I am COTENCREW.<br>
-<img src="crew-logo-03.png" width="100"/>
+<img src="crew-logo-03.png" width="80"/>
+
+#### 最近の作成テストApps（主に写経）
+- [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
+- [世界のお天気](https://weather-report-react-ts.netlify.app/)
+- Python & Selenium & pandas🐼 & (FastAPI | Flasc) によるWebスクレイピング （PythonプログラムのAPI化中）
+- Go & (Supabase | AWS) & TailwindCSS （作成中）
+- PHP & Laravel & Docker (節約のためAWSインスタンス停止中）
 
 <!--
 **itachi-P/itachi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 
