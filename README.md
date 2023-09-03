@@ -15,6 +15,7 @@ I like <a href="https://www.youtube.com/c/cotenradio" target="_blank">COTENRADIO
 Here are some ideas to get you started:
 -->
 
+### Technologies that have been used:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,docker,gradle" /><br />
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Most recent studying Languages and Tools:</h3>
+### Most recent studying Languages and Tools:
 <p align="left">
   <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
