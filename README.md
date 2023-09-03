@@ -8,7 +8,7 @@ I like [COTENRADIO](https://www.youtube.com/c/cotenradio) and I am COTENCREW.<br
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
 - Python & Selenium & pandas🐼 & (FastAPI | Flasc) によるWebスクレイピング （API化の為のWAF選定中）
-- Go & (Supabase | AWS) & TailwindCSSによるSPA （GoによるWebアプリ作成段階）
+- Go & (Supabase | AWS) & TailwindCSSによる(SPA | pagenation) （GoによるWebアプリ作成段階）
 - PHP & Laravel & Docker によるToDoList(節約のためAWSインスタンス停止中）
 
 <!--
