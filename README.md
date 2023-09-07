@@ -1,7 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
-I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/>
+I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
+
+Other favorite audio contents:
+- [a scope 〜資本主義の未来編](https://open.spotify.com/show/6Wg8C5S0lonShoWReujAip)
+- [ゆるコンピュータ科学ラジオ](https://www.youtube.com/@yurucom)
+- [ひまじんプログラマーの週末エンジニアリングレッスン](https://open.spotify.com/show/2uv9mONog0nr9q5YJJsvIt?si=e79fc99f3ecd4b8f)
 
 #### Recently created test Apps (Mainly transcriptions as a consistent part of learning)
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
