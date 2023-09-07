@@ -15,10 +15,14 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 #### Recently created test Apps (Mainly transcriptions as a consistent part of learning)
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
+<details>
+  <summary>Other Creation Apps:</summary>
+  
 - Python & Selenium & pandas🐼 & (FastAPI | Flasc) によるWebスクレイピング＆API化 （フレームワーク選定段階）
-- Go & (Supabase | AWS) & TailwindCSSによる(SPA | pagenation) （GoによるWebアプリ作成段階）
-- PHP & Laravel & Docker、Railsテストアプリ等(過去公開していたが、AWS料金節約＆Herokuも有料化のため停止中）
-- Flutter & Firebase & NoSQLDB による30日間習慣形成スマホアプリ　（未完成・非公開）
+- Go & Supabase & TailwindCSSによる(SPA | pagenation) （GoによるWebアプリ作成段階）
+- PHP & Laravel & Docker & AWS、Railsテストアプリ等(AWS料金節約＆Heroku有料化のため停止中）
+- Flutter & Firebase & NoSQLDB による30日間習慣形成スマホアプリ（未完成・非公開）
+</details>
 
 <!--
 **itachi-P/itachi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
