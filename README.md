@@ -1,12 +1,16 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
+I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
 
-Other favorite audio contents:
+<details>
+<summary>Other favorite audio contents:</summary>
+  
 - [a scope 〜資本主義の未来編](https://open.spotify.com/show/6Wg8C5S0lonShoWReujAip)
 - [ゆるコンピュータ科学ラジオ](https://www.youtube.com/@yurucom)
 - [ひまじんプログラマーの週末エンジニアリングレッスン](https://open.spotify.com/show/2uv9mONog0nr9q5YJJsvIt?si=e79fc99f3ecd4b8f)
+- [エンジニアストーリー by Qiita](https://pitpa.jp/playlist/engineerstory)
+</details>
 
 #### Recently created test Apps (Mainly transcriptions as a consistent part of learning)
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
@@ -14,7 +18,7 @@ Other favorite audio contents:
 - Python & Selenium & pandas🐼 & (FastAPI | Flasc) によるWebスクレイピング＆API化 （フレームワーク選定段階）
 - Go & (Supabase | AWS) & TailwindCSSによる(SPA | pagenation) （GoによるWebアプリ作成段階）
 - PHP & Laravel & Docker、Railsテストアプリ等(過去公開していたが、AWS料金節約＆Herokuも有料化のため停止中）
-- Flutter & Firebase　　& NoSQLDB による30日間習慣形成スマホアプリ　（未完成・非公開）
+- Flutter & Firebase & NoSQLDB による30日間習慣形成スマホアプリ　（未完成・非公開）
 
 <!--
 **itachi-P/itachi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
