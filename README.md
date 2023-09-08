@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,docker" /><br />
     <img src="https://skillicons.dev/icons?i=go,supabase,tailwind,py,selenium,php,laravel,heroku,ruby,rails,solidity" /><br />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vercel,netlify,dart,flutter,gradle,firebase,gcp" /><br />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,deno,vercel,netlify,dart,flutter,gradle,firebase,gcp" /><br />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,wordpress,java,eclipse,c,cs,dotnet,perl,lua" /><br />
   </a>
   <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
