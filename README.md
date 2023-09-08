@@ -15,6 +15,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 #### Recently created test Apps (Mainly transcriptions as a part of studying)
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
+- [コロナ😷💉トラッカー(**感染者数データはデモ用**)](https://567-tracker.netlify.app/)
 <details>
   <summary>Other Creation Apps:</summary>
   
