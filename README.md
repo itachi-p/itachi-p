@@ -33,7 +33,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 <summary>Recently read books:</summary>
   
 - [世界は贈与でできている　資本主義の「すきま」を埋める倫理学](https://www.amazon.co.jp//dp/B085NJC1HD/)
-- [Humankind-希望の歴史-上 -人類が善き未来をつくるための18章](https://www.amazon.co.jp/dp/4163914072/)
+- [Humankind 希望の歴史(上)　人類が善き未来をつくるための18章](https://www.amazon.co.jp/dp/4163914072/)
 - [「孟子」は人を強くする](https://www.amazon.co.jp/dp/4396111290/)
 - [宇宙は何でできているのか　素粒子物理学で解く宇宙の謎](https://www.amazon.co.jp/gp/product/B00CZCWBPS/)
 </details>
