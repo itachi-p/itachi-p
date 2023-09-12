@@ -49,7 +49,11 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
                     },
                     "5.Investing",  
                     "6.Fitness",  
-                    "7.Mindset"  
+                    {
+                        "7.Mindset": [
+                            "73.ストア哲学によって人生が変わる理由"
+                        ]
+                    }
                 ]                 
   </details>
 
@@ -97,8 +101,8 @@ Here are some ideas to get you started:
   <a href="https://www.vim.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
   <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://laravel.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.ruby-lang.org/en/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-  <a href="https://rubyonrails.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+<!--   <a href="https://www.ruby-lang.org/en/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+  <a href="https://rubyonrails.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> -->
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itachi-p&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
