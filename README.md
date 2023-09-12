@@ -15,7 +15,8 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 #### Recently created test Apps (Mainly transcriptions as a part of studying)
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
-- [コロナ😷💉トラッカー(**感染者数データはデモ用**)](https://567-tracker.netlify.app/)
+- [コロナ😷💉トラッカー(**感染者数データは~~デマ~~デモ用**)](https://567-tracker.netlify.app/)
+- [Next.js公式に沿ったテストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)
 <details>
   <summary>Other Creation Apps:</summary>
   
@@ -23,6 +24,18 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - Go & Supabase & TailwindCSSによる(SPA | pagenation) （GoによるWebアプリ作成段階）
 - PHP & Laravel & Docker & AWS、Railsテストアプリ等(AWS料金節約＆Heroku有料化のため停止中）
 - Flutter & Firebase & NoSQLDB による30日間習慣形成スマホアプリ（未完成・非公開）
+</details>
+
+##### Books **now** reading
+- [SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版](https://www.amazon.co.jp/dp/4296000500/)  
+- [「頭のゴミ」を捨てれば、脳は一瞬で目覚める!　苫米地英人](https://www.amazon.co.jp/dp/B00JP3222M/)
+<details>
+<summary>Recently read books:</summary>
+  
+- [世界は贈与でできている　資本主義の「すきま」を埋める倫理学](https://www.amazon.co.jp//dp/B085NJC1HD/)
+- [Humankind-希望の歴史-上-人類が善き未来をつくるための18章](https://www.amazon.co.jp/dp/4163914072/)
+- [「孟子」は人を強くする](https://www.amazon.co.jp/dp/4396111290/)
+- [宇宙は何でできているのか　素粒子物理学で解く宇宙の謎](https://www.amazon.co.jp/gp/product/B00CZCWBPS/)
 </details>
 
 <!--
