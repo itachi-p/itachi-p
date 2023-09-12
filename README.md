@@ -1,3 +1,7 @@
+<!--
+**itachi-P/itachi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+-->
 <h1 align="center">Hi there 👋</h1>
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
@@ -67,17 +71,12 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [宇宙は何でできているのか　素粒子物理学で解く宇宙の謎](https://www.amazon.co.jp/gp/product/B00CZCWBPS/)
 </details>
 
-<!--
-**itachi-P/itachi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
 ### Technologies I've used in the past:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,docker,mysql,postgres,sqlite,redis" /><br />
-    <img src="https://skillicons.dev/icons?i=go,supabase,tailwind,py,selenium,php,laravel,heroku,ruby,rails,solidity" /><br />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,deno,vercel,netlify,dart,flutter,gradle,firebase,gcp" /><br />
+    <img src="https://skillicons.dev/icons?i=go,supabase,netlify,tailwind,py,selenium,php,laravel,heroku,ruby,rails,solidity" /><br />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,deno,vercel,dart,flutter,androidstudio,gradle,firebase,gcp" /><br />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,wordpress,java,eclipse,c,cs,dotnet,perl,lua" /><br />
   </a>
 </p>
