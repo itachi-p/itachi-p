@@ -27,7 +27,32 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 </details>
 
 #### Books **now** reading
-- [SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版](https://www.amazon.co.jp/dp/4296000500/)  
+- [SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版](https://www.amazon.co.jp/dp/4296000500/)
+  - <details>
+    "overview": [
+                    "1.Career",  
+                    "2.Self Marketing",  
+                    {
+                        "3.Learning": [
+                            "27.学び方を学ぶ",
+                            "31.メンターの探し方",
+                            "32.メンターになる方法"
+                        ]
+                    },
+                    {
+                        "4.Productivity": [
+                            "36.全ては集中から始まる",
+                            "40.自分に対して責任を取る",
+                            "43.時間浪費のメカニズム",
+                            "45.効果的な習慣の育て方"
+                        ]
+                    },
+                    "5.Investing",  
+                    "6.Fitness",  
+                    "7.Mindset"  
+                ]                 
+  </details>
+
 - [「頭のゴミ」を捨てれば、脳は一瞬で目覚める!　苫米地英人](https://www.amazon.co.jp/dp/B00JP3222M/)
 <details>
 <summary>Recently read books:</summary>
