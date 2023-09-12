@@ -7,7 +7,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 <summary>Other favorite audio contents:</summary>
   
 - [a scope 〜資本主義の未来編](https://open.spotify.com/show/6Wg8C5S0lonShoWReujAip)
-- [ゆるコンピュータ科学ラジオ](https://www.youtube.com/@yurucom)
+- [ゆる言語学ラジオ](https://podcasters.spotify.com/pod/show/yurugengo) & [ゆるコンピュータ科学ラジオ](https://www.youtube.com/@yurucom)
 - [ひまじんプログラマーの週末エンジニアリングレッスン](https://open.spotify.com/show/2uv9mONog0nr9q5YJJsvIt?si=e79fc99f3ecd4b8f)
 - [エンジニアストーリー by Qiita](https://pitpa.jp/playlist/engineerstory)
 </details>
@@ -16,24 +16,24 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
 - [コロナ😷💉トラッカー(**感染者数データは~~デマ~~デモ用**)](https://567-tracker.netlify.app/)
-- [Next.js公式に沿ったテストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)
+- **Now here👉** [Next.js公式に沿ったテストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α
 <details>
-  <summary>Other Creation Apps:</summary>
+  <summary>Other Creating Apps:</summary>
   
-- Python & Selenium & pandas🐼 & (FastAPI | Flasc) によるWebスクレイピング＆API化 （フレームワーク選定段階）
-- Go & Supabase & TailwindCSSによる(SPA | pagenation) （GoによるWebアプリ作成段階）
-- PHP & Laravel & Docker & AWS、Railsテストアプリ等(AWS料金節約＆Heroku有料化のため停止中）
-- Flutter & Firebase & NoSQLDB による30日間習慣形成スマホアプリ（未完成・非公開）
+- Python & Selenium & pandas🐼 & FastAPI によるWebスクレイピング＆API化
+- Go & Supabase & TailwindCSSによる(SPA | pagenation)
+- PHP & Laravel & Docker & AWSテストアプリ他(料金節約のため停止中）
+- Flutter & Firebase & NoSQL による30日間習慣形成スマホアプリ（非公開）
 </details>
 
-##### Books **now** reading
+#### Books **now** reading
 - [SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版](https://www.amazon.co.jp/dp/4296000500/)  
 - [「頭のゴミ」を捨てれば、脳は一瞬で目覚める!　苫米地英人](https://www.amazon.co.jp/dp/B00JP3222M/)
 <details>
 <summary>Recently read books:</summary>
   
 - [世界は贈与でできている　資本主義の「すきま」を埋める倫理学](https://www.amazon.co.jp//dp/B085NJC1HD/)
-- [Humankind-希望の歴史-上-人類が善き未来をつくるための18章](https://www.amazon.co.jp/dp/4163914072/)
+- [Humankind-希望の歴史-上 -人類が善き未来をつくるための18章](https://www.amazon.co.jp/dp/4163914072/)
 - [「孟子」は人を強くする](https://www.amazon.co.jp/dp/4396111290/)
 - [宇宙は何でできているのか　素粒子物理学で解く宇宙の謎](https://www.amazon.co.jp/gp/product/B00CZCWBPS/)
 </details>
