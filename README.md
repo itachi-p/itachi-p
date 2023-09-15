@@ -4,6 +4,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&height=30&lines=Front-end+reinforcement+in+progress.;Reading+the+book+%22SOFT+SKILLS%22.;Studying+API+now.)](https://git.io/typing-svg)
+
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
 
@@ -76,7 +78,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,docker,mysql,postgres,sqlite,redis" /><br />
     <img src="https://skillicons.dev/icons?i=go,supabase,netlify,tailwind,py,selenium,php,laravel,heroku,ruby,rails,solidity" /><br />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,deno,vercel,dart,flutter,androidstudio,gradle,firebase,gcp" /><br />
+    <img src="https://skillicons.dev/icons?i=postman,js,ts,react,nextjs,deno,vercel,dart,flutter,androidstudio,gradle,firebase,gcp" /><br />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,wordpress,java,eclipse,c,cs,dotnet,perl,lua" /><br />
   </a>
 </p>
