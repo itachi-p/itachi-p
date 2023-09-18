@@ -77,7 +77,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,docker,mysql,postgres,sqlite,redis" /><br />
-    <img src="https://skillicons.dev/icons?i=go,supabase,netlify,tailwind,py,selenium,php,laravel,heroku,ruby,rails,solidity" /><br />
+    <img src="https://skillicons.dev/icons?i=go,supabase,netlify,graphql,prisma,tailwind,py,selenium,php,laravel,heroku,ruby,rails,solidity" /><br />
     <img src="https://skillicons.dev/icons?i=postman,js,ts,react,nextjs,deno,vercel,dart,flutter,androidstudio,gradle,firebase,gcp" /><br />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,wordpress,java,eclipse,c,cs,dotnet,perl,lua" /><br />
   </a>
