@@ -3,8 +3,9 @@
 Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋</h1>
+Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&height=30&lines=Front-end+reinforcement+in+progress.;Reading+the+book+%22SOFT+SKILLS%22.;Studying+API+now.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=300&height=30&lines=API開発・フロントエンド領域強化中;%22SOFT+SKILLS%22　読書中;Podcast　「ひまプロ」　拝聴中)](https://git.io/typing-svg)
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
@@ -22,7 +23,9 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
 - [コロナ😷💉トラッカー(**感染者数データは~~デマ~~デモ用**)](https://567-tracker.netlify.app/)
-- **Now here👉** [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α
+- [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α
+- [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)
+- **Next👉** _GolangでFintech自動売買アプリ(**GitHubリポジトリはprivate**)_
 <details>
   <summary>Other Creating Apps:</summary>
   
