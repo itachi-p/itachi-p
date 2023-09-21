@@ -37,8 +37,8 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 #### Other items created past :
   
-- Python & Selenium & pandas🐼 & FastAPI によるWebスクレイピング _＆API化(未)_
-- PHP & Laravel & Docker & AWSテストアプリ(料金節約のため停止中）
+- Python & Selenium & pandas🐼 ~~&FastAPI~~ によるWebスクレイピング _（API化は未実装）_
+- PHP & Laravel & Docker & AWS ECS (料金節約のため稼働停止中）
 - Flutter & Firebase & NoSQL による30日間習慣形成スマホアプリ（非公開）
 </details>
 
