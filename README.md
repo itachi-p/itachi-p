@@ -19,15 +19,23 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [エンジニアストーリー by Qiita](https://pitpa.jp/playlist/engineerstory)
 </details>
 
-#### Recently created test Apps (Mainly transcriptions as a part of studying)
+#### Recently create Apps
+
+<details>
+  <summary>主に写経による作成アプリ & 開発予定案</summary>
+  
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
 - [コロナ😷💉トラッカー(**感染者数データは~~デマ~~デモ用**)](https://567-tracker.netlify.app/)
 - [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α
 - [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)
 - **Next👉** _GolangでFintech自動売買アプリ(**GitHubリポジトリはprivate**)_
-<details>
-  <summary>Other Creating Apps:</summary>
+- **自分で使いたい**と思うスマホアプリ開発 (Go mobile, Go Cloud | Flutter)
+  - 読書支援アプリ
+  - 集中力訓練アプリ
+  - 習慣形成アプリ　（以前Flutter & Firebaseで作って非公開のもの）
+
+#### Other Created Apps:
   
 - Python & Selenium & pandas🐼 & FastAPI によるWebスクレイピング＆API化
 - Go & Supabase & TailwindCSSによる(SPA | pagenation)
@@ -35,45 +43,43 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - Flutter & Firebase & NoSQL による30日間習慣形成スマホアプリ（非公開）
 </details>
 
-#### Books **now** reading
+<details>
+  <summary>Reading Books</summary>
+
+##### Now reading
+
 - [SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版](https://www.amazon.co.jp/dp/4296000500/)
-  - <details>
-    "overview": [
-                    "1.Career",  
-                    "2.Self Marketing",  
-                    {
-                        "3.Learning": [
-                            "27.学び方を学ぶ",
-                            "31.メンターの探し方",
-                            "32.メンターになる方法"
-                        ]
-                    },
-                    {
-                        "4.Productivity": [
-                            "36.全ては集中から始まる",
-                            "40.自分に対して責任を取る",
-                            "43.時間浪費のメカニズム",
-                            "45.効果的な習慣の育て方"
-                        ]
-                    },
-                    "5.Investing",  
-                    "6.Fitness",  
-                    {
-                        "7.Mindset": [
-                            "73.ストア哲学によって人生が変わる理由"
-                        ]
-                    }
-                ]                 
+  <details>
+    <summary>書籍詳細（特に気になるトピックメモ）</summary>
+    
+  overview:  
+  - "1.Career"  
+  - "2.Self Marketing"  
+  - "3.Learning":
+    - "27.学び方を学ぶ"  
+    - "31.メンターの探し方"  
+    - "32.メンターになる方法"  
+  - "4.Productivity":
+    - "36.全ては集中から始まる"  
+    - "40.自分に対して責任を取る"  
+    - "43.時間浪費のメカニズム"  
+    - "45.効果的な習慣の育て方"  
+  - "5.Investing"  
+  - "6.Fitness"  
+  - "7.Mindset":
+    - "73.ストア哲学によって人生が変わる理由"  
+           
   </details>
 
 - [「頭のゴミ」を捨てれば、脳は一瞬で目覚める!](https://www.amazon.co.jp/dp/B00JP3222M/)
-<details>
-<summary>Recently read books:</summary>
+  
+###### Recently read books:
   
 - [世界は贈与でできている　資本主義の「すきま」を埋める倫理学](https://www.amazon.co.jp//dp/B085NJC1HD/)
 - [Humankind 希望の歴史(上)　人類が善き未来をつくるための18章](https://www.amazon.co.jp/dp/4163914072/)
 - [「孟子」は人を強くする](https://www.amazon.co.jp/dp/4396111290/)
 - [宇宙は何でできているのか　素粒子物理学で解く宇宙の謎](https://www.amazon.co.jp/gp/product/B00CZCWBPS/)
+
 </details>
 
 ### Technologies I've used in the past:
