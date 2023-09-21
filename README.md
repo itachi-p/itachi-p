@@ -19,10 +19,10 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [エンジニアストーリー by Qiita](https://pitpa.jp/playlist/engineerstory)
 </details>
 
-#### Recently create Apps
+#### Recent study records
 
 <details>
-  <summary>主に写経による作成アプリ & 開発予定案</summary>
+  <summary>Recently created Apps & Next idea</summary>
   
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
@@ -35,11 +35,10 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   - 集中力訓練アプリ
   - 習慣形成アプリ　（以前Flutter & Firebaseで作って非公開のもの）
 
-#### Other Created Apps:
+#### Other items created past :
   
-- Python & Selenium & pandas🐼 & FastAPI によるWebスクレイピング＆API化
-- Go & Supabase & TailwindCSSによる(SPA | pagenation)
-- PHP & Laravel & Docker & AWSテストアプリ他(料金節約のため停止中）
+- Python & Selenium & pandas🐼 & FastAPI によるWebスクレイピング _＆API化(未)_
+- PHP & Laravel & Docker & AWSテストアプリ(料金節約のため停止中）
 - Flutter & Firebase & NoSQL による30日間習慣形成スマホアプリ（非公開）
 </details>
 
