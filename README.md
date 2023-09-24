@@ -19,10 +19,10 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [エンジニアストーリー by Qiita](https://pitpa.jp/playlist/engineerstory)
 </details>
 
-#### Recent study records
+### Recent study records
 
 <details>
-  <summary>Recently created Apps & Next idea</summary>
+  <summary>created Apps & Next idea</summary>
   
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
