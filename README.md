@@ -30,7 +30,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α
 - [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)
 - **Next👉** _GolangでFintech自動売買アプリ(**GitHubリポジトリはprivate**)_
-- **自分で使いたい**と思うスマホアプリ開発 (Go mobile, Go Cloud | Flutter)
+- **自分で使いたい**と思うスマホアプリ開発 (Go mobile, Go Cloud | Flutter | React Native)
   - 読書支援アプリ
   - 集中力訓練アプリ
   - 習慣形成アプリ　（以前Flutter & Firebaseで作って非公開のもの）
