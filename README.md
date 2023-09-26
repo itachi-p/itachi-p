@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=300&height=30&lines=MacBookPro修理のピンチ（泣）(TдT);Golang学習再開;%22SOFT+SKILLS%22　読書中;Podcast　「ひまプロ」　拝聴中)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=300&height=30&lines=MacBookPro修理のピンチ(TдT);Golang学習再開;『モチベーション3.0』読書中;Podcast「ひまプロ」拝聴中)](https://git.io/typing-svg)
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
@@ -47,33 +47,12 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 ##### Now reading
 
-- [SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版](https://www.amazon.co.jp/dp/4296000500/)
-  <details>
-    <summary>書籍詳細（特に気になるトピックメモ）</summary>
-    
-  overview:  
-  - "1.Career"  
-  - "2.Self Marketing"  
-  - "3.Learning":
-    - "27.学び方を学ぶ"  
-    - "31.メンターの探し方"  
-    - "32.メンターになる方法"  
-  - "4.Productivity":
-    - "36.全ては集中から始まる"  
-    - "40.自分に対して責任を取る"  
-    - "43.時間浪費のメカニズム"  
-    - "45.効果的な習慣の育て方"  
-  - "5.Investing"  
-  - "6.Fitness"  
-  - "7.Mindset":
-    - "73.ストア哲学によって人生が変わる理由"  
-           
-  </details>
-
+- [モチベーション3.0](https://www.amazon.co.jp/dp/4062144492)
 - [「頭のゴミ」を捨てれば、脳は一瞬で目覚める!](https://www.amazon.co.jp/dp/B00JP3222M/)
   
 ###### Recently read books:
-  
+
+- [SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版](https://www.amazon.co.jp/dp/4296000500/)
 - [世界は贈与でできている　資本主義の「すきま」を埋める倫理学](https://www.amazon.co.jp//dp/B085NJC1HD/)
 - [Humankind 希望の歴史(上)　人類が善き未来をつくるための18章](https://www.amazon.co.jp/dp/4163914072/)
 - [「孟子」は人を強くする](https://www.amazon.co.jp/dp/4396111290/)
