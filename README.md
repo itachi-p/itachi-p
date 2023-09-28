@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=300&height=30&lines=MacBookPro修理のピンチ(TдT);Golang学習再開;『モチベーション3.0』読書中;Podcast「ひまプロ」拝聴中)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=300&height=30&lines=モバイルアプリ開発に舵切り決定;Golang学習は一旦中断;『モチベーション3.0』読書中;Podcast「ひまプロ」拝聴中)](https://git.io/typing-svg)
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
@@ -29,8 +29,9 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [コロナ😷💉トラッカー(**感染者数データは~~デマ~~デモ用**)](https://567-tracker.netlify.app/)
 - [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α
 - [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)
-- **Next👉** _GolangでFintech自動売買アプリ(**GitHubリポジトリはprivate**)_
-- **自分で使いたい**と思うスマホアプリ開発 (Go mobile, Go Cloud | Flutter | React Native)
+- **Next**
+- _GolangでFintech自動売買アプリ(**GitHubリポジトリはprivate**)_
+- **自分で使いたい**と思うスマホアプリ開発 (~~Go mobile, Go Cloud~~ | **Flutter** | *React Native*)
   - 読書支援アプリ
   - 集中力訓練アプリ
   - 習慣形成アプリ　（以前Flutter & Firebaseで作って非公開のもの）
@@ -39,7 +40,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   
 - Python & Selenium & pandas🐼 ~~&FastAPI~~ によるWebスクレイピング _（API化は未実装）_
 - PHP & Laravel & Docker & AWS ECS (料金節約のため稼働停止中）
-- Flutter & Firebase & NoSQL による30日間習慣形成スマホアプリ（非公開）
+- Flutter & Firebase & NoSQL(FireStore) による30日間習慣形成スマホアプリ（非公開）
 </details>
 
 <details>
@@ -72,6 +73,9 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 ### Recent learning Languages & Tools:
 <p align="left">
+  <a href="https://flutter.dev"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://dart.dev"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://golang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   <a href="https://typescriptlang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://react.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a>
@@ -82,10 +86,6 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   <a href="https://aws.amazon.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <!--   
   <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://dart.dev"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
--->
-  <a href="https://flutter.dev"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<!--
   <a href="https://www.vim.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
   <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://laravel.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
