@@ -31,11 +31,12 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)
 
 **Next plan**
-- _GolangでFintech自動売買アプリ(**非公開**)_
 - **自分で使いたい**と思うスマホアプリ開発 (~~Go mobile, Go Cloud~~ | **Flutter** | *React Native*)
-  - 読書支援アプリ
-  - 集中力訓練アプリ
+  - 意思決定委任アプリ　（🎲様の言う通り）　自己理解支援ツールでもある
+  - 読書支援アプリ　（脅威の遅読術マスターの読書促進用）
+  - 集中力訓練アプリ　（現代は集中力を阻害するものだらけ、その最たる例はスマホである）
   - 習慣形成アプリ　（以前Flutter & Firebaseで作って非公開のもの）
+- _GolangでFintech自動売買アプリ(**非公開・一時中断**)_
 
 #### Other items created past :
   
