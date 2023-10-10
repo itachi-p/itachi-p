@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=300&height=30&lines=モバイルアプリ開発に舵切り決定;Golang学習は一旦中断;『モチベーション3.0』読書中;Podcast「ひまプロ」拝聴中)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=300&height=30&lines=モバイルアプリ開発に舵切り決定;Podcast「ひまプロ」拝聴中)](https://git.io/typing-svg)
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
@@ -50,11 +50,11 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 ##### Now reading
 
-- [モチベーション3.0](https://www.amazon.co.jp/dp/4062144492)
 - [「頭のゴミ」を捨てれば、脳は一瞬で目覚める!](https://www.amazon.co.jp/dp/B00JP3222M/)
   
 ###### Recently read books:
 
+- [モチベーション3.0](https://www.amazon.co.jp/dp/4062144492)
 - [SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版](https://www.amazon.co.jp/dp/4296000500/)
 - [世界は贈与でできている　資本主義の「すきま」を埋める倫理学](https://www.amazon.co.jp//dp/B085NJC1HD/)
 - [Humankind 希望の歴史(上)　人類が善き未来をつくるための18章](https://www.amazon.co.jp/dp/4163914072/)
