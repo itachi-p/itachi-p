@@ -15,7 +15,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   
 - [a scope 〜資本主義の未来編](https://open.spotify.com/show/6Wg8C5S0lonShoWReujAip)
 - [ゆる言語学ラジオ](https://podcasters.spotify.com/pod/show/yurugengo) & [ゆるコンピュータ科学ラジオ](https://www.youtube.com/@yurucom)
-- [ひまじんプログラマーの週末エンジニアリングレッスン](https://open.spotify.com/show/2uv9mONog0nr9q5YJJsvIt?si=e79fc99f3ecd4b8f)
+- [ひまじんプログラマーの週末エンジニアリングレッスン(ひまプロ)](https://open.spotify.com/show/2uv9mONog0nr9q5YJJsvIt?si=e79fc99f3ecd4b8f)
 - [エンジニアストーリー by Qiita](https://pitpa.jp/playlist/engineerstory)
 </details>
 
