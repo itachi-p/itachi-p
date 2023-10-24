@@ -49,11 +49,11 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   <summary>Reading Books</summary>
 
 ##### Now reading
-
-- [「頭のゴミ」を捨てれば、脳は一瞬で目覚める!](https://www.amazon.co.jp/dp/B00JP3222M/)
+- (再読)[The Art of Readable Code](https://www.amazon.co.jp/dp/4873115655)
   
 ###### Recently read books:
 
+- [「頭のゴミ」を捨てれば、脳は一瞬で目覚める!](https://www.amazon.co.jp/dp/B00JP3222M/)
 - [モチベーション3.0](https://www.amazon.co.jp/dp/4062144492)
 - [SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版](https://www.amazon.co.jp/dp/4296000500/)
 - [世界は贈与でできている　資本主義の「すきま」を埋める倫理学](https://www.amazon.co.jp//dp/B085NJC1HD/)
