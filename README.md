@@ -65,10 +65,10 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 ### Technologies I've used in the past:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,docker,mysql,postgres,sqlite,redis" /><br />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,docker,mysql,postgres,sqlite" /><br />
     <img src="https://skillicons.dev/icons?i=go,supabase,netlify,graphql,prisma,tailwind,py,selenium,php,laravel,heroku,ruby,rails,solidity" /><br />
-    <img src="https://skillicons.dev/icons?i=postman,js,ts,react,nextjs,deno,vercel,dart,flutter,androidstudio,gradle,firebase,gcp" /><br />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,wordpress,java,eclipse,c,cs,dotnet,perl,lua" /><br />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vercel,dart,flutter,androidstudio,gradle,firebase,gcp" /><br />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,wordpress,java,eclipse,c,cs,dotnet,perl" /><br />
   </a>
 </p>
 
