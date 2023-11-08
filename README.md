@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=300&height=30&lines=Podcast「ひまプロ」拝聴中;職を得るのは諦めました。;趣味で学習・アプリ開発;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=300&height=30&lines=Podcast「ひまプロ」拝聴中;職を得るのはほぼ諦めモード。;今後は趣味で学習・アプリ開発)](https://git.io/typing-svg)
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
@@ -48,11 +48,11 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   <summary>Reading Books</summary>
 
 ##### Now reading
-- (再読)[The Art of Readable Code](https://www.amazon.co.jp/dp/4873115655)
 - [達人プログラマー(第2版): 熟達に向けたあなたの旅](https://www.amazon.co.jp/dp/4274226298)
   
 ###### Recently read books:
 
+- (再読)[The Art of Readable Code](https://www.amazon.co.jp/dp/4873115655)
 - [「頭のゴミ」を捨てれば、脳は一瞬で目覚める!](https://www.amazon.co.jp/dp/B00JP3222M/)
 - [モチベーション3.0](https://www.amazon.co.jp/dp/4062144492)
 - [SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版](https://www.amazon.co.jp/dp/4296000500/)
