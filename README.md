@@ -19,6 +19,25 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [エンジニアストーリー by Qiita](https://pitpa.jp/playlist/engineerstory)
 </details>
 
+<h2>Next plan (Update 2024/2/22)</h2>
+
+- **取り組むこと**
+  - 英語学習
+    - 現在地点の確認目安として定期的にTOEIC受験
+    - とりあえずTOEIC700点以上（相当）の英語力を目指す
+      - Listening & Reading だけでなく、Speakingも
+      - Writingは4種のうちでは優先度最低に設定
+  - 英語でのプログラミング学習
+    - 言語はPHP、フレームワークはLaravelに絞る
+    - 目指すゴールの方向性
+      - マネジメント・設計・要件定義（ブリッジSE等）＞　外国人エンジニアとチームで働く　＞　自ら手を動かす受託開発
+      - プログラマとして技術を極めるより、CSもある程度理解している設計・マネジメント・チーム運営寄りの経験を増やす 
+- **やらないこと**
+  - 多言語や複数のフレームワーク、周辺技術（DockerやAWS等）の深い理解は当面必要ない。
+    - Flutterによるモバイルアプリ開発は、当面やっても趣味程度に留める
+    - Golangその他フロントエンド言語やフレームワークの学習は一旦白紙
+    - ラズパイや基盤などハードウェア・組み込み系寄り（C言語、Python）の学習も一旦白紙
+
 ### Recent study records
 
 <details>
@@ -28,14 +47,6 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
 - [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α
 - [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)
-
-**Next plan**
-- **自分で使いたい**と思うスマホアプリ開発 (~~Go mobile, Go Cloud~~ | **Flutter** | *React Native*)
-  - 意思決定委任アプリ　（🎲様の言う通り）　自己理解支援ツールでもある
-  - 読書支援アプリ　（脅威の遅読術マスターの読書促進用）
-  - 集中力訓練アプリ　（現代は集中力を阻害するものだらけ、その最たる例はスマホである）
-  - 習慣形成アプリ　（以前Flutter & Firebaseで作って非公開のもの）
-- _GolangでFintech自動売買アプリ(**非公開リポジトリ**)_
 
 #### Other items created past :
   
