@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=400&height=30&lines=再始動、結果出るまでやると決めた。;当面は英語×PHP×Laravelに絞って学習予定)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=400&height=30&lines=再始動、結果出るまでやると決めた。;当面は英語→6月以降PHP×Laravelに絞り学習予定)](https://git.io/typing-svg)
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
@@ -30,7 +30,16 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
       - Listening & Reading だけでなく、Speakingも
       - Writingは4種のうちでは優先度最低に設定
   - **英語での**プログラミング学習
-    - 言語はPHP、フレームワークはLaravelに絞る
+    - 言語はPHP、フレームワークはLaravel、DBはMySQL、PaaSはHerokuに絞る
+      - セブ島スクールの方針だが、ポートフォリオ作成時はコンテナやAWS、Firebase(GCP)等の利用も要検討
+      - ただし、AWSの多数のサービスの組み合わせやTerraform(IaC)等にこだわりすぎない
+      - ＰＨＰ以外の言語に手を出す場合の候補は以下のうちのいずれか1点に絞る。
+        - Flutter(Dart), TypeScript, Next.js等のAltJSフレームワークのいずれか
+        - CI/CD(CircleCIなど)やＲＤＢＭＳ以外(NoSQL), GraphQL, APIのエンドポイント自作等にも当面手出し無用
+        - デザイン周り（TailwindCSSなど）にもコストを払わない。**中途半端に手を出すくらいなら完全に捨てる。**
+        - **Golangは学習・就活段階では手出し禁止！**
+        - 「アセンブリで湯婆婆やってみた」とかもやんなよ？
+          - 「**時間は命**」である。潰していい時間など無い。
     - 目指すゴールの方向性
       - マネジメント・設計・要件定義（ブリッジSE等）＞　外国人とチームで働く　＞　自ら手を動かす受託開発
       - 技術を極めるより、CSもある程度理解している設計・マネジメント・チーム運営寄りの経験を増やす 
@@ -53,7 +62,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 #### Other items created past :
   
 - Python & Selenium & pandas🐼 ~~&FastAPI~~ によるWebスクレイピング _（API化は未実装）_
-- PHP & Laravel & Docker & AWS ECS (料金節約のため稼働停止中）
+- PHP & Laravel & Docker & AWS ECS (経費節約のため稼働停止中）
 - Flutter & Firebase & NoSQL(FireStore) による30日間習慣形成スマホアプリ（非公開）
 </details>
 
@@ -61,11 +70,13 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   <summary>Reading Books</summary>
 
 ##### Now reading
-- [達人プログラマー(第2版): 熟達に向けたあなたの旅](https://www.amazon.co.jp/dp/4274226298)
+- [Clean Code アジャイルソフトウェア達人の技] (https://www.amazon.co.jp/dp/4048930591)
+- [Clean Coder プロフェッショナルプログラマへの道] (https://www.amazon.co.jp/dp/4048930648)
 - 以後はここに記録[読書ミーター](https://bookmeter.com/users/1441045)
   
 ###### Recently read books:
 
+- [達人プログラマー(第2版): 熟達に向けたあなたの旅](https://www.amazon.co.jp/dp/4274226298)
 - (再読)[The Art of Readable Code](https://www.amazon.co.jp/dp/4873115655)
 - [「頭のゴミ」を捨てれば、脳は一瞬で目覚める!](https://www.amazon.co.jp/dp/B00JP3222M/)
 - [モチベーション3.0](https://www.amazon.co.jp/dp/4062144492)
