@@ -19,10 +19,10 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [エンジニアストーリー by Qiita](https://pitpa.jp/playlist/engineerstory)
 </details>
 
-<h2>Next plan (Update 2024/3/3)</h2>
+<h2>Next plan (Update 2024/3/29)</h2>
 
 - **取り組むこと**
-  - **英語学習(当面6月まではこちらを優先)**
+  - **英語学習(2024/6月まではこちらを優先)**
     - 現在地点の確認目安として定期的にTOEIC受験
       - **2024/04/21(Sun)にまず初回受験** 恐らく400～500点台？
       - **6月までの3ヶ月で600点台、年内に700点台に上げる。**
