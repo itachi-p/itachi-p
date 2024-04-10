@@ -19,25 +19,25 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [エンジニアストーリー by Qiita](https://pitpa.jp/playlist/engineerstory)
 </details>
 
-<h2>Next plan (Update 2024/3/29)</h2>
+<h2>Next plan (Update 2024/4/10)</h2>
 
 - **取り組むこと**
   - **英語学習(2024/6月まではこちらを優先)**
-    - 現在地点の確認目安として定期的にTOEIC受験
-      - **2024/04/21(Sun)にまず初回受験** 恐らく400～500点台？
-      - **6月までの3ヶ月で600点台、年内に700点台に上げる。**
+    - 現在地点の確認目安として定期的にTOEIC受験 (*TOEICスコア向上に過剰な執着は不要*)
+      - **2024/04/21(Sun)にまず初回受験** 恐らく500点前後？
+      - **6月までの3ヶ月で600点台（目安。実際に受験しなくてよい）、年内（10〜12月中再受験)に700点台に上げる。**
     - とりあえず*TOEIC700点以上*(相当)の英語力を目指す
       - Listening & Reading だけでなく、Speakingも
       - Writingは4種のうちでは優先度最低に設定
   - **英語での**プログラミング学習
     - 言語はPHP、フレームワークはLaravel、DBはMySQL、PaaSはHerokuに絞る
       - セブ島スクールの方針だが、ポートフォリオ作成時はコンテナやAWS、Firebase(GCP)等の利用も要検討
-      - ただし、AWSの多数のサービスの組み合わせやTerraform(IaC)等にこだわりすぎない
+      - ただし、AWSの多数のサービスの組み合わせやTerraform(IaC)など周辺技術にこだわりすぎない
       - ＰＨＰ以外の言語に手を出す場合の候補は以下のうちのいずれか1点に絞る。
-        - Flutter(Dart), TypeScript, Next.js等のAltJSフレームワークのいずれか
+        - ~~Flutter(Dart)~~ (→やるならReactNativeに変更), TypeScript, ~~Next.js~~ (→React優先に変更)等のAltJSフレームワークのいずれか
         - CI/CD(CircleCIなど)やＲＤＢＭＳ以外(NoSQL), GraphQL, APIのエンドポイント自作等にも当面手出し無用
         - デザイン周り（TailwindCSSなど）にもコストを払わない。**中途半端に手を出すくらいなら完全に捨てる。**
-        - **Golangは学習・就活段階では手出し禁止！**
+        - **GolangおよびFlutterは学習・就活段階では手出し禁止！** やりたければ**職を得て以降に**第２言語または趣味開発で。
         - 「アセンブリで湯婆婆やってみた」とかもやんなよ？
           - 「**時間は命**」である。潰していい時間など無い。
     - 目指すゴールの方向性
@@ -45,8 +45,9 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
       - 技術を極めるより、CSもある程度理解している設計・マネジメント・チーム運営寄りの経験を増やす 
 - **やらないこと**
   - 多言語や複数のフレームワーク、周辺技術（DockerやAWS等）の深い理解は当面必要ない。
-    - Flutterによるモバイルアプリ開発は、やるとしても当面は息抜き・趣味範囲に留める
-    - GolangやTypeScript、Next.jsその他フロントエンド言語やフレームワークの学習は一旦白紙
+    - ~~Flutter~~　（→やるならReactNativeに変更）によるモバイルアプリ開発は、やっても当面は息抜き・趣味範囲に留める
+    - GolangやTypeScript、Next.jsその他フロントエンド言語やフレームワークの学習は一旦白紙　（→React及びReactNativeは検討対象）
+      - Svelteも当面は様子見。フロントエンド領域におけるReactに次ぐ第２候補として記憶の端に留めておく。
     - Raspberry Piや基盤、CAD/CAMなどハードウェア・組み込み系寄り（C言語、Python）の学習も撤回
 
 ### Recent study records
