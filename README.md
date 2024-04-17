@@ -19,7 +19,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [エンジニアストーリー by Qiita](https://pitpa.jp/playlist/engineerstory)
 </details>
 
-<h2>Next plan (Update 2024/4/10)</h2>
+<h2>Next plan (Update 2024/4/17)</h2>
 
 - **取り組むこと**
   - **英語学習(2024/6月まではこちらを優先)**
@@ -31,7 +31,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
       - Writingは4種のうちでは優先度最低に設定
   - **英語での**プログラミング学習
     - 言語はPHP、フレームワークはLaravel、DBはMySQL、PaaSはHerokuに絞る
-    - (2024/04/15方針策定)6~9月はセブ島スクールのLaravel（入門レベル）と並行し、**ReactNative**も独習
+    - (2024/04/16方針策定)6~9月はセブ島スクールのLaravel（入門レベル）と並行し、**ReactNative**も独習
       - セブ島スクールの方針だが、ポートフォリオ作成時はコンテナやAWS、Firebase(GCP)等の利用も要検討
       - ただし、AWSの多数のサービスの組み合わせやTerraform(IaC)など周辺技術にこだわりすぎない
       - ＰＨＰ以外の言語に手を出す場合の候補は以下のうちのいずれか1点に絞る。
