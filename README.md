@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=400&height=30&lines=再始動、結果出るまでやると決めた。;当面は英語→6月以降PHP×Laravelに絞り学習予定)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=500&height=30&lines=再始動、結果出る(収入を得る)までやると決めた。;3〜6月英語→6〜9月PHP×Laravel＆ReactNative学習予定;2024/10〜12月フィリピン企業インターン→就活開始予定)](https://git.io/typing-svg)
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
@@ -23,14 +23,15 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 - **取り組むこと**
   - **英語学習(2024/6月まではこちらを優先)**
-    - 現在地点の確認目安として定期的にTOEIC受験 (*TOEICスコア向上に過剰な執着は不要*)
+    - 現在地点の確認目安として定期的（半年毎）にTOEIC受験 (*ただし、TOEICスコア向上に過剰な執着は不要*)
       - **2024/04/21(Sun)にまず初回受験** 恐らく500点前後？
-      - **6月までの3ヶ月で600点台（目安。実際に受験しなくてよい）、年内（10〜12月中再受験)に700点台に上げる。**
-    - とりあえず*TOEIC700点以上*(相当)の英語力を目指す
+      - **6月までの3ヶ月で600点台（目安。実際に受験しなくてよい）、年内（10〜12月中再受験)に700点台。**
+    - とりあえずのゴールとして*TOEIC700点以上*(相当)の英語力を目指す
       - Listening & Reading だけでなく、Speakingも
       - Writingは4種のうちでは優先度最低に設定
   - **英語での**プログラミング学習
     - 言語はPHP、フレームワークはLaravel、DBはMySQL、PaaSはHerokuに絞る
+    - (2024/04/15方針策定)6~9月はセブ島スクールのLaravel（入門レベル）と並行し、**ReactNative**も独習
       - セブ島スクールの方針だが、ポートフォリオ作成時はコンテナやAWS、Firebase(GCP)等の利用も要検討
       - ただし、AWSの多数のサービスの組み合わせやTerraform(IaC)など周辺技術にこだわりすぎない
       - ＰＨＰ以外の言語に手を出す場合の候補は以下のうちのいずれか1点に絞る。
