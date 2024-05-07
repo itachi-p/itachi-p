@@ -37,12 +37,12 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
         - 結合テストはクラウドサービス側のCI/CDを利用するだけでおＫとする
     - 基本的にセブ島スクールの方針に従うが、ポートフォリオ作成時はコンテナ技術やAWS、Firebase(GCP)等の利用も検討
       - ただし、AWSの多数のサービスの組み合わせやTerraform(IaC)など周辺技術にこだわりすぎない
-      - ＰＨＰ以外の言語に手を出す場合の候補は以下のうちのいずれか1点に絞る。
-        - ~~Flutter(Dart)~~ (→ReactNativeに変更), TypeScript, ~~Next.js~~ (→React優先に変更)ほかAltJSフレームワークのいずれか
+      - PHP以外の言語に手を出す場合の候補は以下のうちのいずれか1点に絞る。
+        - ~~Flutter(Dart)~~ (→ReactNativeに変更), TypeScript, ~~Next.js~~ (→React優先に変更)~~ほかAltJSフレームワークのいずれか~~
           - *Svelte*等にも惹かれるが、まずは最初の仕事を得る確度が高いと思われる優先順位(フロントならReact系)であまり手を広げないよう注意。
-        - 自力によるCI/CDやIaCの実現(CircleCI, Dockerなど)やＲＤＢＭＳ以外(NoSQL), GraphQL, APIのエンドポイント自作等も当面は手出し無用
+        - 自力によるCI/CDやIaCの実現(CircleCI, Docker, Terraformなど)やRDBMS以外(NoSQL), GraphQL, APIのエンドポイント自作等も当面は手出し無用
         - デザイン周り（TailwindCSSなど）にもコストを払わない。**中途半端に手を出さず、デザイン周りの学習は完全に捨てる。**
-        - **GolangおよびFlutterは学習・就活段階では手出し禁止！** やりたければ**職を得て以降に**第２言語または趣味開発で。
+        - **GolangおよびFlutterは学習・就活段階では手出し禁止！** やりたければ**職を得て以降に**第2言語または趣味開発で
           - 「**時間は命**」である。潰していい時間など無い。
     - 目指すゴールの方向性
       - マネジメント・設計・要件定義（ブリッジSE等）＞　外国人とチームで働く　＞　自ら手を動かす受託開発
