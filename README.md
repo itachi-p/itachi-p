@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=500&height=30&lines=再始動、結果出る(職・収入を得る)までやる;2024/3〜6月英語→6〜9月PHP×Laravel受講 + React&TypeScript個人開発;2024/9〜11月フィリピン企業インターン→就活開始予定)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=600&height=30&lines=再始動、結果出る(職・収入を得る)までやる;2024年3～6月英語→6～9月PHP×Laravel＋React＆TypeScript個人開発;2024年9～11月フィリピン企業インターン→就活開始予定)](https://git.io/typing-svg)
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
@@ -24,13 +24,13 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - **取り組むこと**
   - **英語学習(2024/6月まではこちらを優先)**
     - 現在地点の確認目安として定期的（半年毎）にTOEIC受験 (*ただし、TOEICスコアに過剰な執着は不要*)
-      - または**DET(Duolingo English Test)**受験
-      - 485(L255/R230)→2024/10〜12月中に700点台（とりあえずの目安として）へ
+      - または **DET(Duolingo English Test)** 受験
+      - TOEIC SCORE485(L255/R230)→2024/10〜12月中に700点台（とりあえずの目安として）へ
   - **英語での**プログラミング学習
-    - PHP, Laravel, DB:(MySQL | PostgreSQL)
+    - PHP, Laravel, DB:(MySQL | PostgreSQL) ※基本的にはスクールの方針に従う
     - 6~9月はセブ島スクールのLaravel（入門レベル）と並行し、**React & TypeScriptにて個人開発、リリース**する。
       - 一気にいろいろ盛り込むことはせず、最低機能要件「だけ」を最短最速で組み上げ、リリース（一般公開）まで完遂する。
-      - 二段階・ＭＦＡを実装する。（まずはログイン機能だけ実装してテキスト表示して完了！でもおＫとする）
+      - 二段階認証・MFAを実装する。（まずはログイン機能だけ実装してテキスト表示して完了！でもおＫとする）
       - 単体テストを3割（おおざっぱな目安）ほど組み込む。
         - 結合テストはSupabase等のクラウドサービス側で用意されているCI/CDパイプラインを利用するだけでよしとする
     - 基本的にセブ島スクールの方針に従うが、ポートフォリオ作成時はコンテナ技術やAWS等のSaasや外部APIの利用も検討
