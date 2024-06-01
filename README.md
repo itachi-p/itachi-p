@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=500&height=30&lines=再始動、結果出る(収入を得る)までやると決めた。;3〜6月英語→6〜9月PHP×Laravel＆ReactNative学習予定;2024/10〜12月フィリピン企業インターン→就活開始予定)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=500&height=30&lines=再始動、結果出る(職・収入を得る)までやる;2024/3〜6月英語→6〜9月PHP×Laravel受講 + React&TypeScript個人開発;2024/9〜11月フィリピン企業インターン→就活開始予定)](https://git.io/typing-svg)
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
@@ -16,43 +16,41 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [a scope 〜資本主義の未来編](https://open.spotify.com/show/6Wg8C5S0lonShoWReujAip)
 - [ゆる言語学ラジオ](https://podcasters.spotify.com/pod/show/yurugengo) & [ゆるコンピュータ科学ラジオ](https://www.youtube.com/@yurucom)
 - [ひまじんプログラマーの週末エンジニアリングレッスン(ひまプロ)](https://open.spotify.com/show/2uv9mONog0nr9q5YJJsvIt?si=e79fc99f3ecd4b8f)
-- [エンジニアストーリー by Qiita](https://pitpa.jp/playlist/engineerstory)
+- [QiitaFM(旧エンジニアストーリー by Qiita)](https://pitpa.jp/playlist/engineerstory)
 </details>
 
-<h2>Next plan (Update 2024/5/2)</h2>
+<h2>Next plan (Update 2024/6/1)</h2>
 
 - **取り組むこと**
   - **英語学習(2024/6月まではこちらを優先)**
-    - 現在地点の確認目安として定期的（半年毎）にTOEIC受験 (*ただし、TOEICスコア向上に過剰な執着は不要*)
-      - **2024/04/21(Sun)にまず初回受験** 恐らく500点前後？
-      - **6月までの3ヶ月で600点台（目安。実際に受験しなくてよい）、年内（10〜12月中再受験)に700点台。**
-    - とりあえずのゴールとして*TOEIC700点以上*(相当)の英語力を目指す
-      - Listening & Reading だけでなく、Speakingも
-      - Writingは4種のうちでは優先度最低に設定
+    - 現在地点の確認目安として定期的（半年毎）にTOEIC受験 (*ただし、TOEICスコアに過剰な執着は不要*)
+      - または**DET(Duolingo English Test)**受験
+      - 485(L255/R230)→2024/10〜12月中に700点台（とりあえずの目安として）へ
   - **英語での**プログラミング学習
-    - 言語はPHP、フレームワークはLaravel、DBはMySQL、PaaSはHerokuに絞る
-    - (2024/04/16方針策定)6~9月はセブ島スクールのLaravel（入門レベル）と並行し、**ReactNative**も独習
-    - 2024年6~8月の間は、スクールにおけるLaravel学習と並行してReactNativeにて個人開発
-      - そこにテスト、特に単体テストを3割ほど組み込む。
-        - 結合テストはクラウドサービス側のCI/CDを利用するだけでおＫとする
-    - 基本的にセブ島スクールの方針に従うが、ポートフォリオ作成時はコンテナ技術やAWS、Firebase(GCP)等の利用も検討
-      - ただし、AWSの多数のサービスの組み合わせやTerraform(IaC)など周辺技術にこだわりすぎない
-      - PHP以外の言語に手を出す場合の候補は以下のうちのいずれか1点に絞る。
-        - ~~Flutter(Dart)~~ (→ReactNativeに変更), TypeScript, ~~Next.js~~ (→React優先に変更)~~ほかAltJSフレームワークのいずれか~~
-          - *Svelte*等にも惹かれるが、まずは最初の仕事を得る確度が高いと思われる優先順位(フロントならReact系)であまり手を広げないよう注意。
-        - 自力によるCI/CDやIaCの実現(CircleCI, Docker, Terraformなど)やRDBMS以外(NoSQL), GraphQL, APIのエンドポイント自作等も当面は手出し無用
-        - デザイン周り（TailwindCSSなど）にもコストを払わない。**中途半端に手を出さず、デザイン周りの学習は完全に捨てる。**
-        - **GolangおよびFlutterは学習・就活段階では手出し禁止！** やりたければ**職を得て以降に**第2言語または趣味開発で
+    - PHP, Laravel, DB:(MySQL | PostgreSQL)
+    - 6~9月はセブ島スクールのLaravel（入門レベル）と並行し、**React & TypeScriptにて個人開発、リリース**する。
+      - 一気にいろいろ盛り込むことはせず、最低機能要件「だけ」を最短最速で組み上げ、リリース（一般公開）まで完遂する。
+      - 二段階・ＭＦＡを実装する。（まずはログイン機能だけ実装してテキスト表示して完了！でもおＫとする）
+      - 単体テストを3割（おおざっぱな目安）ほど組み込む。
+        - 結合テストはSupabase等のクラウドサービス側で用意されているCI/CDパイプラインを利用するだけでよしとする
+    - 基本的にセブ島スクールの方針に従うが、ポートフォリオ作成時はコンテナ技術やAWS等のSaasや外部APIの利用も検討
+      - ただし、AWSの多数のサービスの組み合わせやDocker, Terraform(IaC)など、周辺技術や多機能にこだわらないこと。
+      - PHP(&Laravel)以外の言語に手を出す場合の候補は以下のうちのいずれか1点に絞る。
+        - ~~Flutter(Dart)~~ ~~(→ReactNativeに変更)~~, React & TypeScript, ~~Next.js~~ (→React優先)~~ほかAltJSフレームワークのいずれか~~
+          - *Svelte*にも惹かれるが、まずは最初の仕事を得る確度が高いと思われる優先順位(フロントならReact系)であまり手を広げないよう注意。
+        - 自力によるCI/CDやIaCの実現(CircleCI, Docker, Terraformなど)やRDBMS以外のDB(NoSQL), GraphQL, APIのエンドポイント自作等はノータッチ
+        - デザイン周り（TailwindCSSなど）にも極力コストを払わない。**中途半端に手を出さず、デザイン周りの学習は完全に捨てる。**
+        - **GolangおよびFlutterは学習・就活段階では手出し禁止！** やりたければ**職を得て以降に**第2言語として、または趣味開発で
           - 「**時間は命**」である。潰していい時間など無い。
     - 目指すゴールの方向性
-      - マネジメント・設計・要件定義（ブリッジSE等）＞　外国人とチームで働く　＞　自ら手を動かす受託開発
-      - 技術を極めるより、CSもある程度理解している設計・マネジメント・チーム運営寄りの経験を増やす 
+      - マネジメント・設計・教職寄り（ブリッジSE・メンター等）＞　外国人とチームで働く　＞　自ら手を動かす受託開発
+      - 技術を極めるより、CSもある程度理解している設計・マネジメント・チーム運営寄りまたは教職・コーチ職の経験を増やす 
 - **やらないこと**
-  - 多言語や複数のフレームワーク、周辺技術（DockerやAWS等）の深い理解は当面必要ない。
+  - 多言語や複数のフレームワーク、周辺技術（DockerやAWS等）の深い理解は当面手出し無用。
     - ~~Flutter~~　（→ReactNativeに変更）によるモバイルアプリ開発は、やっても当面は息抜き・趣味範囲に留める
-    - GolangやTypeScript、Next.jsその他フロントエンド言語やフレームワークの学習は一旦白紙　（→React及びReactNativeは検討対象）
-      - *Svelte*やPython及びそのＦＷ(Flask, *FastAPI*, Django等)も当面は封印。第２言語以降の候補として記憶の端に留めておく。
-    - Raspberry Piや基盤、CAD/CAMなどハードウェア・組み込み系寄り（C言語、Python）の学習も撤回
+    - ~~GolangやTypeScript、Next.jsその他フロントエンド言語やフレームワークの学習は一旦白紙~~　（→React及びReactNativeは検討対象）
+      - *Svelte*やPython(及びFlask, *FastAPI*, Django等)も当面は封印。第2言語以降の候補として記憶の端に留めておく。
+    - Raspberry Piや基盤、CAD/CAMなどハードウェア・組み込み系寄り（主にC言語）の学習も一旦894に戻す検討史
 
 ### Recent study records
 
