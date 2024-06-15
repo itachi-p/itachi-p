@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=600&height=30&lines=再始動、結果出る(職・収入を得る)までやる;2024年3～6月英語→6～9月PHP×Laravel＋React＆TypeScript個人開発;2024年9～11月フィリピン企業インターン→就活開始予定)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=600&height=30&lines=再始動、結果出る(職・収入を得る)までやる;2024年3～6月英語→6～9月PHP×Laravel＋React＆TypeScript個人開発;2024年10～12月フィリピン企業インターン→就活開始予定)](https://git.io/typing-svg)
 
 I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
@@ -19,38 +19,46 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [QiitaFM(旧エンジニアストーリー by Qiita)](https://pitpa.jp/playlist/engineerstory)
 </details>
 
-<h2>Next plan (Update 2024/6/1)</h2>
+<h2>Next plan (Update 2024/6/15)</h2>
+
+<h3>選択と集中 - 「やらないべきこと」に1秒も使わない</h3>
+<h4>インプット・アウトプットともに範囲を絞る</h4>
+
+- Twitterには当面ログインしない。やむを得ない場合は**閲覧のみ**とする。
+- Qiita記事等も無理して書こうとしない。
+- 日本語で文章を書いて公開することじたいを当面控える。
+- あれこれやろうとする前に、「やらない」と決めたことをまずやらない。
 
 - **取り組むこと**
   - **英語学習(2024/6月まではこちらを優先)**
-    - 現在地点の確認目安として定期的（半年毎）にTOEIC受験 (*ただし、TOEICスコアに過剰な執着は不要*)
-      - または **DET(Duolingo English Test)** 受験
-      - TOEIC SCORE485(L255/R230)→2024/10〜12月中に700点台（とりあえずの目安として）へ
+    - ただし*TOEICスコアに過剰な執着は不要*
+      - 次は10月以降に再度TOEIC(600点以上) または **DET(Duolingo English Test)** 受験
   - **英語での**プログラミング学習
-    - PHP, Laravel, DB:(MySQL | PostgreSQL) ※基本的にはスクールの方針に従う
-    - 6~9月はセブ島スクールのLaravel（入門レベル）と並行し、**React & TypeScriptにて個人開発、リリース**する。
-      - 一気にいろいろ盛り込むことはせず、最低機能要件「だけ」を最短最速で組み上げ、リリース（一般公開）まで完遂する。
-      - 二段階認証・MFAを実装する。（まずはログイン機能だけ実装してテキスト表示して完了！でもおＫとする）
+    - PHP, Laravel, DB:(MySQL | PostgreSQL) ※スクールのカリキュラムに従う
+    - 6~9月はセブ島スクールのLaravelと並行し、**React & TypeScriptにて個人開発、リリース**する。
+      - 一気にいろいろ盛り込むことはせず、最低機能要件「だけ」~~を最短最速で組み上げ、リリース（一般公開）まで完遂する~~。
+      - **学習目的**寄りでよい。なんならTDD(テスト駆動開発)の実践を兼ねて簡単なサンプルプログラム作成のみで良しとする。
       - 単体テストを3割（おおざっぱな目安）ほど組み込む。
-        - 結合テストはSupabase等のクラウドサービス側で用意されているCI/CDパイプラインを利用するだけでよしとする
+        - 結合テストはクラウドサービス側で用意されているCI/CDパイプラインを利用するだけでよしとする
+      - MFA(多段階認証)を実装する。（SupabaseやVercel等が用意しているものでよい）
     - 基本的にセブ島スクールの方針に従うが、ポートフォリオ作成時はコンテナ技術やAWS等のSaasや外部APIの利用も検討
-      - ただし、AWSの多数のサービスの組み合わせやDocker, Terraform(IaC)など、周辺技術や多機能にこだわらないこと。
+      - AWSの多数のサービスの組み合わせやDocker, Terraform(IaC)など、周辺技術や多機能にこだわらないこと。
       - PHP(&Laravel)以外の言語に手を出す場合の候補は以下のうちのいずれか1点に絞る。
         - ~~Flutter(Dart)~~ ~~(→ReactNativeに変更)~~, React & TypeScript, ~~Next.js~~ (→React優先)~~ほかAltJSフレームワークのいずれか~~
           - *Svelte*にも惹かれるが、まずは最初の仕事を得る確度が高いと思われる優先順位(フロントならReact系)であまり手を広げないよう注意。
         - 自力によるCI/CDやIaCの実現(CircleCI, Docker, Terraformなど)やRDBMS以外のDB(NoSQL), GraphQL, APIのエンドポイント自作等はノータッチ
-        - デザイン周り（TailwindCSSなど）にも極力コストを払わない。**中途半端に手を出さず、デザイン周りの学習は完全に捨てる。**
-        - **GolangおよびFlutterは学習・就活段階では手出し禁止！** やりたければ**職を得て以降に**第2言語として、または趣味開発で
-          - 「**時間は命**」である。潰していい時間など無い。
+        - デザイン周り（TailwindCSSなど）にも極力コストを払わない。**中途半端に手を出さず、デザイン周りの習得は完全に捨てる。**
+        - **Golang、Flutter、Rust等は学習・就活段階では手出し禁止！** やりたければ**職を得て以降に**第2言語として、または趣味開発で
     - 目指すゴールの方向性
-      - マネジメント・設計・教職寄り（ブリッジSE・メンター等）＞　外国人とチームで働く　＞　自ら手を動かす受託開発
-      - 技術を極めるより、CSもある程度理解している設計・マネジメント・チーム運営寄りまたは教職・コーチ職の経験を増やす 
+      - 設計・マネジメント・教職寄り（ブリッジSE・メンター等）＞　外国人とのチームの一員として働く　＞　自ら手を動かす受託開発（個人事業）
+      - 技術を極めるより、CSもある程度理解している設計・マネジメント・チーム運営寄り　または教職・コーチ職の経験を増やす 
 - **やらないこと**
   - 多言語や複数のフレームワーク、周辺技術（DockerやAWS等）の深い理解は当面手出し無用。
     - ~~Flutter~~　（→ReactNativeに変更）によるモバイルアプリ開発は、やっても当面は息抜き・趣味範囲に留める
     - ~~GolangやTypeScript、Next.jsその他フロントエンド言語やフレームワークの学習は一旦白紙~~　（→React及びReactNativeは検討対象）
       - *Svelte*やPython(及びFlask, *FastAPI*, Django等)も当面は封印。第2言語以降の候補として記憶の端に留めておく。
     - Raspberry Piや基盤、CAD/CAMなどハードウェア・組み込み系寄り（主にC言語）の学習も一旦894に戻す検討史
+    - 「アウトプットの一環」と称した**日本語による文章の公開を一切禁ずる**
 
 ### Recent study records
 
