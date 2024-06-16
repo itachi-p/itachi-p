@@ -5,35 +5,41 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=600&height=30&lines=再始動、結果出る(職・収入を得る)までやる;2024年3～6月英語→6～9月PHP×Laravel＋React＆TypeScript個人開発;2024年10～12月フィリピン企業インターン→就活開始予定)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=600&height=30&lines=再始動、結果出る(職・収入を得る)までやる;2024年3～6月英語→6～9月PHP×Laravel＋個人開発;2024年10～12月フィリピン企業インターン→就活開始予定)](https://git.io/typing-svg)
 
-I'm programmer👩‍💻 and I love animals**🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
+I'm programmer👩‍💻 and I love animals **🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
 
 <details>
 <summary>Other favorite audio contents:</summary>
   
+- [ひまじんプログラマーの週末エンジニアリングレッスン(ひまプロ)](https://open.spotify.com/show/2uv9mONog0nr9q5YJJsvIt?si=e79fc99f3ecd4b8f)
 - [a scope 〜資本主義の未来編](https://open.spotify.com/show/6Wg8C5S0lonShoWReujAip)
 - [ゆる言語学ラジオ](https://podcasters.spotify.com/pod/show/yurugengo) & [ゆるコンピュータ科学ラジオ](https://www.youtube.com/@yurucom)
-- [ひまじんプログラマーの週末エンジニアリングレッスン(ひまプロ)](https://open.spotify.com/show/2uv9mONog0nr9q5YJJsvIt?si=e79fc99f3ecd4b8f)
 - [QiitaFM(旧エンジニアストーリー by Qiita)](https://pitpa.jp/playlist/engineerstory)
 </details>
 
-<h2>Next plan (Update 2024/6/16)</h2>
+<h1>秘技・ちょうぜつテノヒラガエシ（破壊的変更）</h1>
 
+- 当面、セブ島スクール以外のIT学習は以下の教材のみを聖典とし、コレ1冊を**ちょうぜつ理解できるまで**他を一切やらない。
+  - [『ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用 Kindle版』](https://amzn.asia/d/eaqi55m)
+- 個人開発もスクールと同じく PHP (& Laravel) で進める。
+- **学習寄りの目的で進める。** ただしリリースもする。
+
+<h2>Next plan (Update 2024/6/16 ver2)</h2>
 <h3>選択と集中 - 「やらないべきこと」に1秒も使わない</h3>
-<h4>インプット・アウトプットともに範囲を絞る</h4>
+<h4>インプット・アウトプットともに範囲を絞る。（遵守）</h4>
 
-<h5>現在の興味対象</h5>
-優先順位1位と定めたもののみ着手。複数同時並行しない、欲張らない。
+<h5>現在の興味対象おぼえがき</h5>
+<p></p>優先順位1位と定めたもののみ着手。複数同時並行しない、欲張らない。</p>
 
 - Rust
   - 好奇心ドリブンで良しとするなら今コレやりたい。わたし、気になります！
   - Webアプリはモチのロンで、組み込み系やOSネイティブツールも作成可能
   - そして高速かつコード簡潔、かつセキュアらしい
   - メモリ関連等CSの理解もある程度必要な為、全くの初学者には向かなさそう
-- TDD(テスト駆動開発)
-  - 「TDDオワコン」とかの雑音は気にしない
+- TDD(テスト駆動開発) **※「ちょうぜつ」本の6章で経験できる**
+  - 「TDDオワコン」とかの雑音を気にする必要はない。
   - 単体テストを書く、という経験の補強を兼ねてこの際慣れておく価値はありそう
 - スマホアプリのリリース
   - iPhoneは敷居(コスト)高めの為、Androidだけでよい
@@ -44,53 +50,46 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 - Twitterには当面ログインしない。やむを得ない場合は**閲覧のみ**とする。
 - SNSはInstagram及びPintarestで動物画像を眺めてニヤニヤするだけに留める。
-  - そこからその動物種についての記事を読むなど調べ始めたり、コメント等のリアクションを返さない。
+  - そこからリンク先の記事を読んだり、コメント等のリアクションを返さない。
 - 「アウトプット」はコードや成果物、及び英語でのSpeaking&Writingのみでよい。
 - **日本語文章記述をアウトプットと呼ばない。** むしろ当面は封印、禁止する。forbidden writer
-- Qiita記事等も無理して書こうとしない。
+- Qiita記事や技術ブログ等も無理して書こうとしない。
 - あれこれ新たに付け足そうとする前に、「やらない」と決めたことをまずやらない。
 
 - **取り組むこと**
-  - **英語学習(2024/6月17日まではこちらを優先)**
+  - **英語学習(2024/6月16日まではこちらを優先)**
     - *TOEICスコアに過剰な執着は不要*
       - 「結果的に」TOEICも700点は超えていた、くらいで良い。TOEICスコア向上を目的にしない。 
       - 次は10月以降に再度TOEIC L&R受験(最低ノルマ600点以上) または **DET(Duolingo English Test)** 受験
-  - **英語での**プログラミング学習
+  - **英語での**プログラミング学習 ※「ちょうぜつ」本は例外とする
     - PHP & Laravel, DB:(MySQL | PostgreSQL) ※スクールのカリキュラムに従う
-    - 6/18~9月はセブ島スクールのLaravel座学と並行し、**React & TypeScriptにて個人開発、リリース**する。
-      - (6/16追記)リリースに拘らず好奇心ドリブン、学習目的寄りで良しとするなら*Rust*や*TDD*入門もアリか…？
-        - 「自身の就活有利」を最優先事項とするなら、リリース必須かつRustやTDDに手を出すのはいつもの「分散癖」に過ぎないかもしれない
-        - 一方で「面白そう」「今やってみたいと感じている」を優先した方が、就活有利だの「評価」を得る目的での学習より結局モノになる気もする。
-      - 一気にいろいろ盛り込むことはせず、最低機能要件「だけ」~~を最短最速で組み上げ、リリース（一般公開）まで完遂する~~。
+    - 6/18~9月はセブ島スクールのPHP & Laravel座学と並行し、 ~~React & TypeScriptにて~~ 個人開発、リリースもする。
+        - 「面白そう」「今やってみたいと感じている」を優先した方が、就活有利だの他者からの「評価」を得る目的より結局モノになる気もする。
+      - 一気にいろいろ盛り込むことはせず、最低機能要件「だけ」に絞り小さく作る。
       - **学習目的**寄りでよい。だがリリースもする。完成物の質や機能には当面あまり拘らない。
-        - リリースノートには「想い」などのポエムでなく、**「なぜそうしたか？」** 等の理由を**箇条書きで淡々と**記述するに留める。  
+        - リリースノートには「想い」などのポエムでなく、**「なぜそうしたか？」** 等の理由を**箇条書きで淡々と**記述するに留める。
         - ~~どうせ殆ど見られない~~ **優先順位を途中で変えない。**
-        - できあがったモノのパッと見の品質や機能性よりも、**GitHubに残るコードの足跡**の方を重く見る。
-        - なんなら*Rust入門*や*TDD(テスト駆動開発)の実践*を兼ねた簡単なサンプルアプリ作成・公開のみで良しとする。
-      - 単体テストを3割（おおざっぱな目安）ほど組み込む。（※TDDで進める場合は比率など気にしない）
-        - 結合テストはクラウドサービス側で用意されているCI/CDパイプラインを利用するだけでよしとする
-      - MFA(多段階認証)を実装する。（SupabaseやVercel等が用意しているものでよい）※これも絶対ではない
+        - できあがったモノのパッと見の品質や機能性より、**GitHubに残るコードの足跡**の方を重く見る。
     - 基本的にセブ島スクールの方針に従うが、ポートフォリオ作成時はコンテナ技術やAWS等のSaasや外部APIの利用も検討
       - AWSの多数のサービスの組み合わせやDocker, Terraform(IaC)など、周辺技術や多機能にこだわらないこと。
       - PHP(&Laravel)以外の言語に手を出す場合の候補は以下のうちのいずれか1点に絞る。
-        - ~~Flutter(Dart)~~ ~~(→ReactNativeに変更)~~, React & TypeScript, ~~Next.js~~ (→React優先)~~ほかAltJSフレームワークのいずれか~~
-          - *Svelte*にも惹かれるが、まずは最初の仕事を得る確度が高いと思われる優先順位(フロントならReact系)であまり手を広げないよう注意。
-        - 自力によるCI/CDやIaCの実現(CircleCI, Docker, Terraformなど)やRDBMS以外のDB(NoSQL), GraphQL, APIのエンドポイント自作等はノータッチ
-        - デザイン周り（TailwindCSSなど）にも極力コストを払わない。**中途半端に手を出さず、デザイン周りの習得は完全に捨てる。**
-        - **Golang、Flutter、Rust等は学習・就活段階では手出し禁止！** やりたければ**職を得て以降に**第2言語として、または趣味開発で
+        - Rust
+        - React & TypeScript
+          - *Svelte*にも惹かれるが、まずは職を得る期待値が高いと思われる優先順位(フロントならReact系)であまり手を広げないよう注意。
+        - 自力でのCI/CDやIaCの実現(CircleCI, Docker, Terraformなど)やNoSQLなどRDBMS以外のDB, GraphQL, APIのエンドポイント自作等はノータッチ
+        - デザイン周り（TailwindCSSなど）にも極力コストを払わない。
+        - **デザイン周りは中途半端に手を出さず、完全に捨てる。**
+        - **Golang、Flutter、Rust等は学習・就活段階では手出し禁止！** やりたければ**職を得て以降に**第2言語として、または趣味開発の範囲で
     - 目指すゴールの方向性
       - 設計・マネジメント・教職（ブリッジSE・メンター等）＞　外国人とのチームの一員　＞　自ら手を動かす受託開発（個人事業）＞ 1人でなんでもできるス～パ～ハカー
       - 技術を極めるより、CSもある程度理解している設計・マネジメント・チーム運営寄りまたは教職・コーチ職経験を増やす
       - **何しろあまり先のことを計画し過ぎても、だいたい予想通りにはならないから考えたって仕方ない。**
 
 - **やらないこと**
-  - 多言語や複数のフレームワーク、周辺技術（DockerやAWS等）の深い理解は当面手出し無用。
-    - ~~Flutter~~　（→ReactNativeに変更）によるモバイルアプリ開発は、やっても当面は息抜き・趣味範囲に留める
-    - ~~GolangやTypeScript、Next.jsその他フロントエンド言語やフレームワークの学習は一旦白紙~~　（→React及びReactNativeは検討対象）
-      - *Svelte*やPython(及びFlask, *FastAPI*, Django等)も当面は封印。第2言語以降の候補として記憶の端に留めておく。
+  - 複数言語同時学習や複数のフレームワーク、周辺技術（DockerやAWSの多種サービス等）習得にコストをかけない。
     - Raspberry Piや基盤、CAD/CAMなどハードウェア・組み込み系寄り（主にC言語）の学習も一旦894に戻す検討史
-    - 「アウトプットの一環」と称した**日本語による文章の公開を一切禁ずる**
-      - **公開・非公開に関わらず、「学習記憶の定着の為」「誰かに役立つかも」と称したドキュメント作成に時間を費やさない。**
+    - 「アウトプットの一環」と称した**日本語による文章の作成を一切禁ずる**
+      - **公開・非公開に関わらず**「学習記憶の定着の為」「誰かに役立つかも」とドキュメント作成に時間を費やさない
 
 ### Recent study records
 
@@ -113,9 +112,8 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   <summary>Reading Books</summary>
 
 ##### Now reading
-- [Clean Code アジャイルソフトウェア達人の技] (https://www.amazon.co.jp/dp/4048930591)
-- [Clean Coder プロフェッショナルプログラマへの道] (https://www.amazon.co.jp/dp/4048930648)
-- 以後はここに記録[読書ミーター](https://bookmeter.com/users/1441045)
+- [『ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用 Kindle版』](https://amzn.asia/d/eaqi55m)
+- その他：[読書ミーター](https://bookmeter.com/users/1441045)
   
 ###### Recently read books:
 
