@@ -21,6 +21,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 <h1>当面はPHP&Laravel、Vimと英語以外に手を出さない！</h1>
 <p>分散学習癖を自制し、PHP&Laravel以外ではWarp及びVSCodeでの操作を極力Vimバインドで行う</p>
+<p>RustやReactなどの書籍にも手を伸ばさない、記事も読まない！</p>
 
 - 「実践Vim:思考のスピードで編集しよう!」を図書館で借りて毎日少しづつ読む
 - （もうかなり忘れかけている）ノーマルモードでの便利なカーソル移動や種々の操作を、思い出そうと考える必要なくできるまで繰り返す
