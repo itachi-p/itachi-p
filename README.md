@@ -21,7 +21,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 ## 当面はPHP&Laravel、Vimと英語以外の学習に手を出さない！
 - 分散癖を自制し、ひたすらPHP & Laravelに全集中すること
-  - 他の言語・フレームワークや周辺技術（DockerやAWSなど）にも手を伸ばさないよう要注意
+  - 他の言語・フレームワークや周辺技術（DockerやAWSなど）に~~触手~~食指を伸ばさないよう注意
   - RustやReact、スマホアプリ開発などの書籍や記事も読まないよう徹底する
 - 英語学習も継続。特に単語と成句（イディオム）
 - 今後はMac標準ターミナル及びiTerm2でなく、Rust製のWarpを使用
