@@ -14,13 +14,11 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 <summary>Other favorite audio contents:</summary>
   
 - [ひまじんプログラマーの週末エンジニアリングレッスン(ひまプロ)](https://open.spotify.com/show/2uv9mONog0nr9q5YJJsvIt?si=e79fc99f3ecd4b8f)
-- [a scope 〜資本主義の未来編](https://open.spotify.com/show/6Wg8C5S0lonShoWReujAip)
-- [ゆる言語学ラジオ](https://podcasters.spotify.com/pod/show/yurugengo) & [ゆるコンピュータ科学ラジオ](https://www.youtube.com/@yurucom)
 - [QiitaFM(旧エンジニアストーリー by Qiita)](https://pitpa.jp/playlist/engineerstory)
 </details>
 
-## 当面はPHP&Laravel、Vimと英語以外の学習に手を出さない！
-- 分散癖を自制し、ひたすらPHP & Laravelに全集中すること
+## 当面はPHP&Laravel、あとはVimと英語のみに集中する
+- 分散癖を自制し、ひたすらPHP & Laravel & Vim & 英語 に全集中
   - 他の言語・フレームワークや周辺技術（DockerやAWSなど）に~~触手~~食指を伸ばさないよう注意
   - RustやReact、スマホアプリ開発などの書籍や記事も読まないよう徹底する
 - 英語学習も継続。特に単語と成句（イディオム）
