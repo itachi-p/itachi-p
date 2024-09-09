@@ -7,7 +7,7 @@ Now Studying:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=600&height=30&lines=再始動、結果出る(職・収入を得る)までやる;2024年3～6月英語→6～9月PHP×Laravel＋個人開発;2024年10～12月フィリピン企業インターン→就活予定)](https://git.io/typing-svg)
 
-I'm programmer👩‍💻 and I love animals **🐻🐯🐘🦝🦊🐹🦇🦎🐝🐛🍄** and vegetable curry🍛.  
+I love animals **🐻** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
 
 <details>
@@ -96,34 +96,19 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 ### Technologies I've used in the past:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,docker,mysql,postgres,sqlite" /><br />
-    <img src="https://skillicons.dev/icons?i=go,supabase,netlify,graphql,prisma,tailwind,py,selenium,php,laravel,heroku,ruby,rails,solidity" /><br />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vercel,dart,flutter,androidstudio,gradle,firebase,gcp" /><br />
-    <img src="https://skillicons.dev/icons?i=html,css,sass,wordpress,java,eclipse,c,cs,dotnet,perl" /><br />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,docker,mysql,postgres,graphql,prisma" /><br />
+    <img src="https://skillicons.dev/icons?i=php,laravel,go,py,selenium,java,eclipse,c,cs,ruby,rails,solidity" /><br />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vercel,supabase,netlify,wordpress" /><br />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,gradle,firebase,gcp,bootstrap,sass,tailwind" /><br />
   </a>
 </p>
 
 ### Recent learning Languages & Tools:
 <p align="left">
-  <a href="https://flutter.dev"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://dart.dev"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://golang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://typescriptlang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://react.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a>
-  <a href="https://nextjs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<!--   
-  <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://laravel.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.vim.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
   <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://laravel.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.ruby-lang.org/en/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-  <a href="https://rubyonrails.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
--->
+  <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itachi-p&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
