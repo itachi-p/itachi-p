@@ -32,11 +32,10 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - 個人開発もスクールと同じく PHP (& Laravel) で進める
 - **自分で使いたいものを作る** 前提で、学習寄りの目的で進める
 
-<h2>Next plan (Update 2024/6/16 ver2)</h2>
+<h2>Next plan </h2>
 <h3>選択と集中 - 「やらないべきこと」に1秒も使わない</h3>
-<h4>インプット・アウトプットともに範囲を絞る（遵守）</h4>
 
-<h5>現在の興味対象</h5>
+<h4>現在の興味対象</h5>
 <p>優先順位1位のみ着手。複数同時並行しない</p>
 
 - **Rust**
