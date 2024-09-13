@@ -17,26 +17,25 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [QiitaFM(旧エンジニアストーリー by Qiita)](https://pitpa.jp/playlist/engineerstory)
 </details>
 
-## 当面はPHP&Laravel、あとはVimと英語のみに集中する
-- 分散癖を自制し、ひたすらPHP & Laravel & Vim & 英語 に全集中
-  - 他の言語・フレームワークや周辺技術（DockerやAWSなど）に~~触手~~食指を伸ばさないよう注意
+## 当面はPHP&Laravel, Vim, 英語のみに全集中する
+- 分散癖を自制　**Laravel** & *Vim* & **英語** 以外やらない。
+  - 他の言語・フレームワークや周辺技術（Rust、Docker、AWS、GoogleCloudRunなど）に~~触手~~食指を伸ばさないよう注意
   - **Rust**やReact、スマホアプリ開発などの書籍や記事も読まないよう徹底する(**調べてしまったらやりたくなるが、今じゃない**)
 - 英語学習も継続。特に単語と成句（イディオム）
 - 今後ターミナルはMac標準及びiTerm2でなく、Rust製のWarpをメインで使用
 - VSCodeの操作も極力Vimのキーバインドで行う（GoogleChromeでVimiumを使うかは要検討）
-- [メルカリさんのバックエンドエンジニアによるVim(&Golang)ライブコーディング](https://www.youtube.com/watch?v=cWvAhmfZJZg)を定期的に拝聴する
-- 毎日Vimに触れ続けVimmer道を追求、そしてやがて変態へ
+- [メルカリさんのバックエンドエンジニアによるVim(&Golang)ライブコーディング](https://www.youtube.com/watch?v=cWvAhmfZJZg)を定期的に観察する
+- 毎日Vimに触れ続け、Vimmer道を邁進する
 
 - 当面、セブ島スクール以外のIT学習は以下の教材のみを聖典とし、コレ1冊を**ちょうぜつ理解できるまで**他を一切やらない。
   - [『ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用 Kindle版』](https://amzn.asia/d/eaqi55m)
 - 個人開発もスクールと同じく PHP (& Laravel) で進める
 - **自分で使いたいものを作る** 前提で、学習寄りの目的で進める
 
-<h2>Next plan </h2>
-<h3>選択と集中 - 「やらないべきこと」に1秒も使わない</h3>
+### 選択と集中 - 「やらないべきこと」に1秒も使わない
 
-<h4>現在の興味対象</h5>
-<p>優先順位1位のみ着手。複数同時並行しない</p>
+現在の興味対象
+#### 優先順位1位のみ着手。複数同時並行しない
 
 - **Rust**
 - TDD(テスト駆動開発) **※「ちょうぜつ」本の6章で経験できる**
@@ -56,7 +55,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   - 技術を極めるより、CSもある程度理解している設計・マネジメント・チーム運営寄りまたは教職・コーチ職経験を増やす
   - **あまり先のことを計画し過ぎても、だいたい予想通りにはならない**
 
-### Recent study records
+##### Recent study records
 
 <details>
   <summary>created Apps & Next idea</summary>
@@ -66,7 +65,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α
 - [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)
 
-#### Other items created past :
+##### Other items created past :
   
 - Python & Selenium & pandas🐼 ~~&FastAPI~~ によるWebスクレイピング _（API化は未実装）_
 - PHP & Laravel & Docker & AWS ECS (経費節約のため稼働停止中）
@@ -76,7 +75,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 <details>
   <summary>Reading Books</summary>
 
-##### Now reading
+###### Now reading
 - [『ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用 Kindle版』](https://amzn.asia/d/eaqi55m)
 - その他：[読書ミーター](https://bookmeter.com/users/1441045)
   
@@ -92,7 +91,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 </details>
 
-### Technologies I've used in the past:
+#### Technologies I've used in the past:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,vscode,vim,bash,linux,aws,docker,mysql,postgres,graphql,prisma" /><br />
@@ -102,7 +101,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   </a>
 </p>
 
-### Recent learning Languages & Tools:
+#### Recent learning Languages & Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
