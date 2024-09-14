@@ -14,16 +14,16 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 #### created Apps :
   
-- [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  ただひたすら猫画像をランダムに拾ってくる…
-- [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)　世界の都市の現在の天候・気温を表示（マルチ言語対応）
-- [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α　Next.jsの公式ハンズオンそのまんまに毛が生えた程度のカスタム
+- [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  ・・・ただひたすら猫画像をランダムに拾ってくる…
+- [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)　・・・世界の都市の現在の天候・気温を表示（マルチ言語対応）
+- [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α　・・・Next.jsの公式ハンズオンそのまんまに毛が生えた程度のカスタム
 
 #### Other portfolios created so far :
 
-- [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)　（※エラーが出てるが、時間を惜しんで現状放置）
-- Python & Selenium & pandas🐼 ~~&FastAPI~~ によるWebスクレイピング _（API化は未実装）_　指定の動物種の画像を指定のサイズで収集（画像そのもののダウンロード、またはJSON形式で返す）
-- PHP & Laravel & Docker & AWS ECS (AWSの利用経費節約のため稼働停止中）
-- Flutter & Firebase & NoSQL(FireStore) による3週間de習慣形成スマホアプリ（ほぼ完成したが、未正式リリース）
+- [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)　・・・（※エラーが出てるが、時間を惜しんで現状放置）
+- Python & Selenium & pandas🐼 ~~&FastAPI~~ によるWebスクレイピング _（API化は未実装）_　・・・指定の動物種の画像を指定のサイズで収集（画像そのもののダウンロード、またはJSON形式で返す）
+- PHP & Laravel & Docker & AWS ECS ・・・(AWSの利用経費節約のため稼働停止中）
+- Flutter & Firebase & NoSQL(FireStore) による3週間de習慣形成スマホアプリ　・・・（ほぼ完成したが、未正式リリース）
 
 ##### favorite audio contents :
   
