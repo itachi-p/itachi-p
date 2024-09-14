@@ -10,13 +10,29 @@ Now Studying:
 I love animals **🐻** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
 
-<details>
-<summary>Other favorite audio contents:</summary>
+### Recent study records
+
+#### created Apps :
+  
+- [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
+- [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
+- [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α
+- [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)
+
+#### Other portfolios created so far :
+  
+- Python & Selenium & pandas🐼 ~~&FastAPI~~ によるWebスクレイピング _（API化は未実装）_
+- PHP & Laravel & Docker & AWS ECS (経費節約のため稼働停止中）
+- Flutter & Firebase & NoSQL(FireStore) による3週間de習慣形成スマホアプリ（未リリース）
+
+##### favorite audio contents :
   
 - [ひまじんプログラマーの週末エンジニアリングレッスン(ひまプロ)](https://open.spotify.com/show/2uv9mONog0nr9q5YJJsvIt?si=e79fc99f3ecd4b8f)
 - [QiitaFM(旧エンジニアストーリー by Qiita)](https://pitpa.jp/playlist/engineerstory)
-</details>
 
+<details>
+  <summary>自分用学習メモ・自戒用鬼十訓（？）</summary>
+  
 ## 当面はPHP&Laravel, Vim, 英語のみに全集中する
 - 分散癖を自制　**Laravel** & *Vim* & **英語** 以外やらない。
   - 他の言語・フレームワークや周辺技術（Rust、Docker、AWS、GoogleCloudRunなど）に~~触手~~食指を伸ばさないよう注意
@@ -43,7 +59,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   - 言語はFlutterではなく、新たに**ReactNative**を学習する
 - React & TypeScript で **Raycast**の新規拡張機能を自作?!
 
-<h5>方針 (やらないべきこと) </h5>
+####### 方針 (やらないべきこと)
 
 - SNSに時間を割き心砕くことを一定期間やめる。やむを得ない場合も**数分以内の閲覧のみ**
 - **日本語文章記述をアウトプットと呼ばない。** むしろ当面は封印 forbidden writer
@@ -54,22 +70,6 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   - 設計・マネジメント・ブリッジSE・メンター等＞　外国人とのチームの一員　＞　自ら手を動かす受託開発（個人事業）＞ ス～パ～ハカー
   - 技術を極めるより、CSもある程度理解している設計・マネジメント・チーム運営寄りまたは教職・コーチ職経験を増やす
   - **あまり先のことを計画し過ぎても、だいたい予想通りにはならない**
-
-##### Recent study records
-
-<details>
-  <summary>created Apps & Next idea</summary>
-  
-- [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  
-- [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)
-- [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α
-- [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)
-
-##### Other items created past :
-  
-- Python & Selenium & pandas🐼 ~~&FastAPI~~ によるWebスクレイピング _（API化は未実装）_
-- PHP & Laravel & Docker & AWS ECS (経費節約のため稼働停止中）
-- Flutter & Firebase & NoSQL(FireStore) による30日間習慣形成スマホアプリ（未リリース）
 </details>
 
 <details>
