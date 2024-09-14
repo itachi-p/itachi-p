@@ -59,7 +59,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
   - 言語はFlutterではなく、新たに**ReactNative**を学習する
 - React & TypeScript で **Raycast**の新規拡張機能を自作?!
 
-####### 方針 (やらないべきこと)
+###### 方針 (やらないべきこと)
 
 - SNSに時間を割き心砕くことを一定期間やめる。やむを得ない場合も**数分以内の閲覧のみ**
 - **日本語文章記述をアウトプットと呼ばない。** むしろ当面は封印 forbidden writer
