@@ -20,7 +20,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 #### Other portfolios created so far :
 
-- [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)　・・・（※エラーが出てるが、時間を惜しんで現状放置）
+- [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)　・・・（※SupabaseのDBでエラーが出てるが、時間を惜しんで現状放置）
 - Python & Selenium & pandas🐼 ~~&FastAPI~~ によるWebスクレイピング _（API化は未実装）_　・・・指定の動物種の画像を指定のサイズで収集（画像そのもののダウンロード、またはJSON形式で返す）
 - PHP & Laravel & Docker & AWS ECS ・・・(AWSの利用経費節約のため稼働停止中）
 - Flutter & Firebase & NoSQL(FireStore) による3週間de習慣形成スマホアプリ　・・・（ほぼ完成したが、未正式リリース）
