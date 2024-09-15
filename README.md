@@ -10,9 +10,9 @@ Now Studying:
 I love animals **🐻** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
 
-### Recent study records
+## Recent study records
 
-#### created Apps :
+### created Apps :
   
 - [ぬこ🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)  ・・・ただひたすら猫画像をランダムに拾ってくる…
 - [世界のお天気⛈️🌞🌪️](https://weather-report-react-ts.netlify.app/)　・・・世界の都市の現在の天候・気温を表示（マルチ言語対応）
