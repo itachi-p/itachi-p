@@ -33,7 +33,7 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 <details>
   <summary>自分用学習メモ・自戒用鬼十訓（？）</summary>
   
-## 当面はPHP&Laravel, Vim, 英語のみに全集中する
+## 当面PHP&Laravel, Vim, 英語のみに全集中する
 - 分散癖を自制　**Laravel** & *Vim* & **英語** 以外やらない。
   - 他の言語・フレームワークや周辺技術（Rust、Docker、AWS、GoogleCloudRunなど）に~~触手~~食指を伸ばさないよう注意
   - **Rust**やReact、スマホアプリ開発などの書籍や記事も読まないよう徹底する(**調べてしまったらやりたくなるが、今じゃない**)
