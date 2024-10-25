@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 Now Studying:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=600&height=30&lines=2024年3～6月英語→6～9月PHP×Laravel→10月リタイア決断;就活予定取り消し→以後は趣味でコーディング予定;サンクコストの呪縛からは逃れる)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=600&height=30&lines=2024年3～6月英語→6～9月PHP×Laravel→10月リタイア決断;就活予定取り消し→以後は趣味でコーディング予定)](https://git.io/typing-svg)
 
 I love animals **🐻** and vegetable curry🍛.  
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
@@ -32,11 +32,16 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 <details>
   <summary>自分用学習メモ・自戒用鬼十訓（？）</summary>
-  
-## 当面PHP&Laravel, Vim, 英語のみに全集中する
-- 分散癖を自制　**Laravel** & *Vim* & **英語** 以外やらない。
-  - 他の言語・フレームワークや周辺技術（Rust、Docker、AWS、GoogleCloudRunなど）に~~触手~~食指を伸ばさないよう注意
-  - **Rust**やReact、スマホアプリ開発などの書籍や記事も読まないよう徹底する(**調べてしまったらやりたくなるが、今じゃない**)
+
+## (2024.10.25更新)
+- ITエンジニアとして職を得る最後の足掻きとして、**Javaの復習**及びJavaでの就活を一定期間行う。
+- PHP & Laravel や Docker の学習は**一旦完全停止の上で**、 Java及びオブジェクト指向プログラミングの復習のみ毎日1時間程度行う。
+- **Spring**を使って簡単なアプリケーションを作ってみるまでやる
+
+### ~~当面PHP&Laravel, Vim, 英語のみに全集中する~~
+- ~~分散癖を自制　**Laravel** & *Vim* & **英語** 以外やらない。~~
+  - ~~他の言語・フレームワークや周辺技術（Rust、Docker、AWS、GoogleCloudRunなど）に食指を伸ばさないよう注意~~
+  - ~~**Rust**やReact、スマホアプリ開発などの書籍や記事も読まないよう徹底する(**調べてしまったらやりたくなるが、今じゃない**)~~
 - 英語学習も継続。特に単語と成句（イディオム）
 - 今後ターミナルはMac標準及びiTerm2でなく、Rust製のWarpをメインで使用
 - VSCodeの操作も極力Vimのキーバインドで行う（GoogleChromeでVimiumを使うかは要検討）
