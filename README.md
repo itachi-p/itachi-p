@@ -25,18 +25,13 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - PHP & Laravel & Docker & AWS ECS ・・・(AWSの利用経費節約のため稼働停止中）
 - Flutter & Firebase & NoSQL(FireStore) による3週間de習慣形成スマホアプリ　・・・（ほぼ完成したが、未正式リリース）
 
-##### favorite audio contents :
-  
-- [ひまじんプログラマーの週末エンジニアリングレッスン(ひまプロ)](https://open.spotify.com/show/2uv9mONog0nr9q5YJJsvIt?si=e79fc99f3ecd4b8f)
-- [QiitaFM(旧エンジニアストーリー by Qiita)](https://pitpa.jp/playlist/engineerstory)
-
-<details>
-  <summary>自分用学習メモ・自戒用鬼十訓（？）</summary>
-
 ## (2024.10.25更新)
 - ITエンジニアとして職を得る最後の足掻きとして、**Javaの復習**及びJavaでの就活を一定期間行う。
 - PHP & Laravel や Docker の学習は**一旦完全停止の上で**、 Java及びオブジェクト指向プログラミングの復習のみ毎日1時間程度行う。
 - **Spring**を使って簡単なアプリケーションを作ってみるまでやる
+
+<details>
+  <summary>自分用学習メモ・自戒用鬼十訓（？）</summary>
 
 ### ~~当面PHP&Laravel, Vim, 英語のみに全集中する~~
 - ~~分散癖を自制　**Laravel** & *Vim* & **英語** 以外やらない。~~
