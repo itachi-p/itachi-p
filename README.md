@@ -27,8 +27,8 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 
 ## (2024.10.25更新)
 - ITエンジニアとして職を得る最後の足掻きとして、**Javaの復習**及びJavaでの就活を一定期間行う。
-- PHP & Laravel や Docker の学習は**一旦完全停止の上で**、 Java及びオブジェクト指向プログラミングの復習のみ毎日1時間程度行う。
-- **Spring**を使って簡単なアプリケーションを作ってみるまでやる
+- PHP & Laravel や Docker の学習は**一旦完全停止。**
+- **Spring Boot**入門に範囲を絞り、簡単なアプリケーションを作ってみる
 
 <details>
   <summary>自分用学習メモ・自戒用鬼十訓（？）</summary>
