@@ -7,7 +7,7 @@ Now Studying:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=600&height=30&lines=2024年3～6月英語→6～9月PHP×Laravel→10月リタイア決断;エンジニアとしての就活挫折→Javaでプログラミング講師デビュー予定)](https://git.io/typing-svg)
 
-2026年3月現在、ITエンジニア復帰は諦めたが、必要性を感じ新SNS開発中。
+2026年3月現在、ITエンジニア復帰は諦めたが、必要性を感じ新SNS開発中。<br>
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
 
 ## Recent study records
