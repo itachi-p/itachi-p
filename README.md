@@ -7,7 +7,7 @@ Now Studying:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=18&duration=2000&pause=1000&color=F7C358&background=19891D9B&width=600&height=30&lines=2024年3～6月英語→6～9月PHP×Laravel→10月リタイア決断;エンジニアとしての就活挫折→Javaでプログラミング講師デビュー予定)](https://git.io/typing-svg)
 
-2026年3月現在、ITエンジニア復帰は諦めたが、必要性を感じ新SNS開発中。<br>
+ITエンジニア復帰は諦めたが、2026年3月現在、必要性を感じ新SNS開発中。<br>
 I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COTENCREW.<img src="crew-logo-03.png" width="25"/><br>
 
 ## Recent study records
@@ -19,58 +19,9 @@ I like <a href="https://www.youtube.com/c/cotenradio">COTENRADIO</a> and I'm COT
 - [Next.js公式テストブログ📝アプリ](https://nextjs-testapp02-blog.netlify.app/)+α　<Next.js> 公式ハンズオンそのまんまに毛が生えた程度のカスタム
 
 #### Other portfolios created so far :
-
-- [GraphQLでAPI開発やってみた](https://graphql-prisma-supabase.vercel.app/)　<GraphQL, TailwindCSS他>（※SupabaseのDBでエラーが出てるが、時間を惜しんで現状放置）
 - Python & Selenium & pandas🐼 ~~&FastAPI~~ によるWebスクレイピング _（API化は未実装）_　・・・指定の動物種の画像を指定のサイズで収集（画像そのもののダウンロード、またはJSON形式で返す）
 - PHP & Laravel & Docker & AWS ECS ・・・(AWSの利用経費節約のため稼働停止中）
 - Flutter & Firebase & NoSQL(FireStore) による3週間de習慣形成スマホアプリ　・・・（ほぼ完成したが、未正式リリース）
-
-## (2024.10.25更新)
-- ITエンジニアとして職を得る最後の足掻きとして、**Javaの復習**及びJavaでの就活を一定期間行う。
-- PHP & Laravel や Docker の学習は**一旦完全停止。**
-- **Spring Boot**入門に範囲を絞り、簡単なアプリケーションを作ってみる
-
-<details>
-  <summary>自分用学習メモ・自戒用鬼十訓（？）</summary>
-
-### ~~当面PHP&Laravel, Vim, 英語のみに全集中する~~
-- ~~分散癖を自制　**Laravel** & *Vim* & **英語** 以外やらない。~~
-  - ~~他の言語・フレームワークや周辺技術（Rust、Docker、AWS、GoogleCloudRunなど）に食指を伸ばさないよう注意~~
-  - ~~**Rust**やReact、スマホアプリ開発などの書籍や記事も読まないよう徹底する(**調べてしまったらやりたくなるが、今じゃない**)~~
-- 英語学習も継続。特に単語と成句（イディオム）
-- 今後ターミナルはMac標準及びiTerm2でなく、Rust製のWarpをメインで使用
-- VSCodeの操作も極力Vimのキーバインドで行う（GoogleChromeでVimiumを使うかは要検討）
-- [メルカリさんのバックエンドエンジニアによるVim(&Golang)ライブコーディング](https://www.youtube.com/watch?v=cWvAhmfZJZg)を定期的に観察する
-- 毎日Vimに触れ続け、Vimmer道を邁進する
-
-- 当面、セブ島スクール以外のIT学習は以下の教材のみを聖典とし、コレ1冊を**ちょうぜつ理解できるまで**他を一切やらない。
-  - [『ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用 Kindle版』](https://amzn.asia/d/eaqi55m)
-- 個人開発もスクールと同じく PHP (& Laravel) で進める
-- **自分で使いたいものを作る** 前提で、学習寄りの目的で進める
-
-### 選択と集中 - 「やらないべきこと」に1秒も使わない
-
-現在の興味対象
-#### 優先順位1位のみ着手。複数同時並行しない
-
-- **Rust**
-- TDD(テスト駆動開発) **※「ちょうぜつ」本の6章で経験できる**
-- スマホアプリのリリース
-  - 言語はFlutterではなく、新たに**ReactNative**を学習する
-- React & TypeScript で **Raycast**の新規拡張機能を自作?!
-
-###### 方針 (やらないべきこと)
-
-- SNSに時間を割き心砕くことを一定期間やめる。やむを得ない場合も**数分以内の閲覧のみ**
-- **日本語文章記述をアウトプットと呼ばない。** むしろ当面は封印 forbidden writer
-- Qiita記事や技術ブログ等も無理して書こうとしない。
-- あれこれ付け足そうとする前に、「やらない」と決めたことをまずやらない。
-
-- 目指すゴールの方向性
-  - 設計・マネジメント・ブリッジSE・メンター等＞　外国人とのチームの一員　＞　自ら手を動かす受託開発（個人事業）＞ ス～パ～ハカー
-  - 技術を極めるより、CSもある程度理解している設計・マネジメント・チーム運営寄りまたは教職・コーチ職経験を増やす
-  - **あまり先のことを計画し過ぎても、だいたい予想通りにはならない**
-</details>
 
 <details>
   <summary>Reading Books</summary>
