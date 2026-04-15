@@ -1,7 +1,9 @@
 ITエンジニア復帰は諦めたが、2026年3月以降、既存SNSが抱える社会的問題の解決を設計思想によって試みる新SNSを開発中。
-- [Nagi SNS](https://heiwa-sns.vercel.app/)
-- [逃げる「いいね」ボタン]()
 
+[<img src="icon-192x192.png" width="80"/>Nagi SNS](https://heiwa-sns.vercel.app/)
+
+### Others:
+- [逃げる「いいね」ボタン](https://itachi-p.github.io/untouchable-like/)
 - [猫🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)
 - [世界の都市の天候と気温🌞🌪️](https://weather-report-react-ts.netlify.app/)
 - 指定の動物種の画像を指定サイズで収集するWebスクレイピング (Python & Selenium & pandas)
