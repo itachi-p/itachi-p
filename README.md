@@ -1,4 +1,4 @@
-2026年3月以降、既存SNSが抱える社会的問題の解決を設計思想によって試みる新SNSを開発中。
+既存SNSが抱える構造的問題の解決をAIと設計思想によって試みる新SNSを開発中。
 
 [<img src="icon-192x192.png" width="80"/>Nagi SNS](https://heiwa-sns.vercel.app/)
 
