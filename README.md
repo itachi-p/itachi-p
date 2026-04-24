@@ -81,7 +81,7 @@
 ## 過去プロジェクト（戦略転換前）
 
 ### Nagi SNS
-https://heiwa-sns.vercel.app/
+[<img src="icon-192x192.png" width="80"/>Nagi SNS](https://heiwa-sns.vercel.app/)
 
 - PWA対応SNSプロトタイプ
 - 既存SNSの構造的問題へのアプローチとして開発
