@@ -1,29 +1,118 @@
-既存SNSが抱える構造的問題の解決をAIと設計思想によって試みる新SNSを開発中。
+# itachi-p
 
-[<img src="icon-192x192.png" width="80"/>Nagi SNS](https://heiwa-sns.vercel.app/)
+## 概要
+既存SNSが抱える構造的問題は、個人レベルでは介入困難なほど巨大化している。  
+この問題意識を起点に新SNS「Nagi」を開発していたが、4/24(金)朝に聴いたPodcast
+尾原和啓氏のClaude DesignやAdobeの新技術の話をきっかけに方針を大転換し、
+今後は**仮説検証と意思決定プロセスの記録**を主軸とする。
 
-PWA対応。ホーム画面にアイコンを追加し、アプリのように使えます。
+---
 
-### Others:
-- [逃げる「いいね」ボタン](https://itachi-p.github.io/untouchable-like/)
-- [猫🐈画像ジェネレータ](https://random-cat-git-feature-itachi-p.vercel.app/)
-- [世界の都市の天候と気温🌞🌪️](https://weather-report-react-ts.netlify.app/)
-- 指定の動物種の画像を指定サイズで収集するWebスクレイピング (Python & Selenium & pandas)
-- ３週間de習慣形成スマホアプリ　(Flutter & Firebase & FireStore)
+## 戦略転換（2026-04）
 
-<details>
-  <summary>Skills I've used or learned:</summary>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,vscode,vim,bash,linux,aws,docker,mysql,postgres,graphql,prisma" />  
-      <img src="https://skillicons.dev/icons?i=php,laravel,go,py,selenium,java,eclipse,c,cs,ruby,rails" />  
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vercel,supabase,netlify,wordpress,solidity" /><br>
-      <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,gradle,firebase,gcp,bootstrap,sass,tailwind" />  
-    </a>
-  </p>
-</details>
+### Before
+- 新SNS「Nagi」の継続的な改善
+- 自分の見立てでは「緊急かつ超重大」な社会問題である、**既存SNSの構造的問題**の直接的解決を志向
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itachi-p&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=itachi-p&show_icons=true&theme=flag-india)](https://streak-stats.demolab.com/demo/)
+### After
+- 課題設定そのものを検証対象に変更
+- 検証手段としての小規模アプリを高速に生成・短期で破棄（数多く作ることが目的ではない）
+- 成果物ではなく**判断ログ**を蓄積
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itachi-p&theme=black-ice&date_format=%5BY.%5Dn.j&card_width=510)](https://git.io/streak-stats)
+---
+
+## なぜ転換したか
+
+- SNSの構造問題は「超重要だが、今すぐは対抗不能」
+- 単一プロダクトへの執着は学習効率が低い
+- 生成AIにより「作ること」の価値が相対的に低下
+
+→ よって  
+**「何を作るか」ではなく「なぜそう判断し、どう検証したか」**に軸を移す
+
+---
+
+## 現在の戦略（試行モデル）
+
+1. 視点を設定する（例：顧客 / 現場（執行） / 経営）
+2. 不便・違和感を言語化する
+3. 仮説として整理（Why / Who / What）
+4. AIに指示し最小構成で試作
+5. 検証
+6. 判断（採用 / 保留 / 破棄）
+7. 次の仮説へ接続
+
+---
+
+## 自戒（ズレ防止ルール）
+
+- 作ることを目的化しない
+- 「検証したつもり」で終わらせない
+- ログを日記化しない（必ず判断を書く）
+- 毎回「何が間違っていたか」を記録する
+- 成果物に執着しない（もはや成果物そのものは競合に埋もれ、また容易に模倣もされ得る）
+
+---
+
+## プロジェクトログ
+
+| Date | Hypothesis | Decision | Learning | Link |
+|------|-----------|----------|----------|------|
+
+（随時追加）
+
+---
+
+## 思考ログ
+
+- 仮説ログ
+- 意思決定ログ
+
+（後日整理）
+
+---
+
+## 現在の仮説（アクティブ）
+
+- 仮説A：
+- 仮説B：
+
+---
+
+## 過去プロジェクト（戦略転換前）
+
+### Nagi SNS
+https://heiwa-sns.vercel.app/
+
+- PWA対応SNSプロトタイプ
+- 既存SNSの構造的問題へのアプローチとして開発
+- 現在は更新一時停止（戦略転換のため）
+
+※問題意識自体は維持しており、将来的に再挑戦する可能性あり
+
+---
+
+## このリポジトリの目的
+
+- 意思決定の履歴を蓄積する
+- 仮説検証の精度を高める
+- 将来的にこれらの記録じたいをLLMへ再投入し、判断を最適化する
+
+---
+
+## ツールに関する前提
+
+ツールの違いや習熟は本質ではない。  
+重要なのは**問いの質と判断精度**である。
+
+---
+
+## 補足
+これはポートフォリオではない。  
+思考と判断のログである。
+
+---
+
+## 最後に
+このREADMEは固定ではない。  
+戦略と認識の変化に応じて更新される。
