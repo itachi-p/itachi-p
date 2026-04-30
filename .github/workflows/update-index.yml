@@ -1,0 +1,69 @@
+name: Update INDEX.md
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**/*.md'
+      - 'projects/**/*.md'
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate INDEX.md
+        run: |
+          cat > INDEX.md << 'HEADER'
+# Index
+
+> このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
+> 最終更新：$(date '+%Y-%m-%d %H:%M JST' -d '+9 hours')
+
+---
+HEADER
+
+          # docs/セクション
+          echo "" >> INDEX.md
+          echo "## docs/" >> INDEX.md
+          echo "" >> INDEX.md
+          echo "| ファイル | 概要 |" >> INDEX.md
+          echo "|---|---|" >> INDEX.md
+
+          for f in $(find docs -name "*.md" | sort); do
+            filename=$(basename "$f")
+            summary=$(grep -m1 '> summary:' "$f" | sed 's/> summary: //' || echo "（summary未記入）")
+            echo "| [$filename]($f) | $summary |" >> INDEX.md
+          done
+
+          # projects/セクション
+          echo "" >> INDEX.md
+          echo "## projects/" >> INDEX.md
+          echo "" >> INDEX.md
+          echo "| プロジェクト | 概要 |" >> INDEX.md
+          echo "|---|---|" >> INDEX.md
+
+          for d in $(find projects -mindepth 1 -maxdepth 1 -type d | sort); do
+            dirname=$(basename "$d")
+            logfile="$d/process-log.md"
+            if [ -f "$logfile" ]; then
+              summary=$(grep -m1 '> summary:' "$logfile" | sed 's/> summary: //' || echo "（summary未記入）")
+              echo "| [$dirname]($logfile) | $summary |" >> INDEX.md
+            else
+              echo "| [$dirname]($d) | （process-log.md未作成） |" >> INDEX.md
+            fi
+          done
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add INDEX.md
+          git diff --staged --quiet || git commit -m "chore: auto-update INDEX.md"
+          git push
