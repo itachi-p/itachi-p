@@ -39,3 +39,4 @@
               echo "| [$dirname]($d) | （process-log.md未作成） |" >> INDEX.md
             fi
           done
+          
