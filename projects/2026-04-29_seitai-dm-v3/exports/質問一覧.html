@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>整体院DMハガキ — 質問一覧</title>
+<style>
+  :root {
+    --bg: #faf8f3;
+    --paper: #fff;
+    --ink: #211a14;
+    --sub: #6b6358;
+    --line: rgba(33,26,20,.12);
+    --accent: #b94a3a;
+    --navy: #1f2c44;
+    --hint: #8a7a6a;
+  }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink);
+    font-family: "Hiragino Sans", "Noto Sans JP", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    line-height: 1.7; -webkit-font-smoothing: antialiased; }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 56px 28px 80px; }
+
+  header { border-bottom: 1px solid var(--line); padding-bottom: 28px; margin-bottom: 36px; }
+  .kicker { font-size: 11px; letter-spacing: .25em; color: var(--hint); text-transform: uppercase; margin-bottom: 10px; }
+  h1 { font-family: "Noto Serif JP", "Hiragino Mincho ProN", serif;
+    font-size: 28px; font-weight: 600; margin: 0 0 8px; letter-spacing: .02em; }
+  .lead { color: var(--sub); font-size: 14px; max-width: 560px; }
+
+  .q { background: var(--paper); border: 1px solid var(--line);
+    border-radius: 10px; padding: 22px 24px; margin-bottom: 14px;
+    box-shadow: 0 1px 0 rgba(0,0,0,.02); }
+  .q-head { display: flex; align-items: baseline; gap: 12px; margin-bottom: 6px; }
+  .num { font-family: "Noto Serif JP", serif; font-size: 13px; color: var(--accent);
+    font-weight: 600; min-width: 28px; }
+  .q-title { font-size: 16px; font-weight: 600; color: var(--ink); }
+  .q-sub { color: var(--sub); font-size: 13px; margin: 4px 0 14px 40px; }
+  .q-kind { font-size: 10px; letter-spacing: .12em; color: var(--hint);
+    text-transform: uppercase; margin-left: auto; padding: 2px 8px;
+    border: 1px solid var(--line); border-radius: 999px; }
+
+  .opts { margin-left: 40px; padding: 0; list-style: none; }
+  .opts li { display: flex; align-items: flex-start; gap: 10px;
+    padding: 6px 0; font-size: 14px; color: var(--ink); }
+  .opts li::before { content: ""; flex: 0 0 14px; height: 14px;
+    border: 1.5px solid var(--line); border-radius: 50%; margin-top: 4px; }
+  .freeform-box { margin-left: 40px; min-height: 56px;
+    border: 1px dashed var(--line); border-radius: 6px;
+    background: rgba(33,26,20,.02); padding: 12px 14px;
+    font-size: 13px; color: var(--hint); font-style: italic; }
+
+  footer { margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--line);
+    color: var(--sub); font-size: 12px; text-align: center; }
+
+  @media print {
+    body { background: #fff; }
+    .wrap { padding: 24px; max-width: none; }
+    .q { break-inside: avoid; box-shadow: none; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker">QUESTIONS · 整体院DMハガキ制作</div>
+    <h1>デザインを進める前にお聞きしたいこと</h1>
+    <p class="lead">一部だけのご回答でも大丈夫です。お答えいただいた項目に基づいてデザインを更新し、未回答の項目はデザイナー判断で進めます。</p>
+  </header>
+
+  <!-- 1 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">01</span>
+      <span class="q-title">整体院の名前（仮名でもOK）</span>
+      <span class="q-kind">Freeform</span>
+    </div>
+    <div class="q-sub">デザインに入れる屋号です。決まっていなければ仮名で進めます</div>
+    <div class="freeform-box">自由記述</div>
+  </div>
+
+  <!-- 2 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">02</span>
+      <span class="q-title">メインターゲットの年齢層</span>
+      <span class="q-kind">Single</span>
+    </div>
+    <div class="q-sub">トーンや文字サイズの判断材料にします</div>
+    <ul class="opts">
+      <li>30〜40代（働き盛り、肩こり腰痛）</li>
+      <li>50〜60代（健康維持、慢性不調）</li>
+      <li>70代以上（高齢、可読性最優先）</li>
+      <li>幅広く（30〜70代）</li>
+      <li>Decide for me</li>
+    </ul>
+  </div>
+
+  <!-- 3 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">03</span>
+      <span class="q-title">デザインのトーン</span>
+      <span class="q-kind">Single</span>
+    </div>
+    <div class="q-sub">整体院のブランドに合うものを選んでください</div>
+    <ul class="opts">
+      <li>温かみ・親しみ系（手書き風、柔らかい色）</li>
+      <li>信頼・誠実系（落ち着いた和風、紺・茶）</li>
+      <li>清潔・モダン系（白基調、サンセリフ）</li>
+      <li>和モダン（和紙テクスチャ、墨色アクセント）</li>
+      <li>Explore a few options</li>
+      <li>Decide for me</li>
+    </ul>
+  </div>
+
+  <!-- 4 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">04</span>
+      <span class="q-title">ハガキのサイズ</span>
+      <span class="q-kind">Single</span>
+    </div>
+    <ul class="opts">
+      <li>通常ハガキ（100×148mm）</li>
+      <li>大判ハガキ（120×235mm）</li>
+      <li>Decide for me</li>
+    </ul>
+  </div>
+
+  <!-- 5 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">05</span>
+      <span class="q-title">向き</span>
+      <span class="q-kind">Single</span>
+    </div>
+    <ul class="opts">
+      <li>縦向き</li>
+      <li>横向き</li>
+      <li>Decide for me</li>
+    </ul>
+  </div>
+
+  <!-- 6 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">06</span>
+      <span class="q-title">表面・裏面どちらをデザインしますか</span>
+      <span class="q-kind">Single</span>
+    </div>
+    <ul class="opts">
+      <li>宛名面と通信面（両面）</li>
+      <li>通信面（デザイン面）のみ</li>
+      <li>Decide for me</li>
+    </ul>
+  </div>
+
+  <!-- 7 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">07</span>
+      <span class="q-title">キャンペーンの有効期限</span>
+      <span class="q-kind">Freeform</span>
+    </div>
+    <div class="q-sub">例：2026年6月30日まで／到着後1ヶ月など</div>
+    <div class="freeform-box">自由記述</div>
+  </div>
+
+  <!-- 8 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">08</span>
+      <span class="q-title">通常の初回施術料金（半額前の元値）</span>
+      <span class="q-kind">Freeform</span>
+    </div>
+    <div class="q-sub">例：6,000円→3,000円など、具体的な数字があれば</div>
+    <div class="freeform-box">自由記述</div>
+  </div>
+
+  <!-- 9 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">09</span>
+      <span class="q-title">掲載すべき店舗情報</span>
+      <span class="q-kind">Freeform</span>
+    </div>
+    <div class="q-sub">住所・電話番号・営業時間・定休日・最寄駅など。分からなければダミーで進めます</div>
+    <div class="freeform-box">自由記述</div>
+  </div>
+
+  <!-- 10 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">10</span>
+      <span class="q-title">メインコピーの方向性</span>
+      <span class="q-kind">Single</span>
+    </div>
+    <div class="q-sub">ハガキを開いたときの第一印象を決めます</div>
+    <ul class="opts">
+      <li>ご無沙汰の挨拶系（「お変わりありませんか？」）</li>
+      <li>心配り系（「お身体の調子はいかがですか」）</li>
+      <li>感謝系（「いつもありがとうございます」）</li>
+      <li>オファー前面系（「半額キャンペーンのお知らせ」）</li>
+      <li>Explore a few options</li>
+      <li>Decide for me</li>
+    </ul>
+  </div>
+
+  <!-- 11 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">11</span>
+      <span class="q-title">写真の使い方</span>
+      <span class="q-kind">Single</span>
+    </div>
+    <ul class="opts">
+      <li>院長・スタッフ写真を使う（信頼感）</li>
+      <li>施術中の様子の写真</li>
+      <li>院内の写真</li>
+      <li>写真は使わずイラスト・図形のみ</li>
+      <li>Decide for me</li>
+    </ul>
+  </div>
+
+  <!-- 12 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">12</span>
+      <span class="q-title">「個人宛て感」の演出</span>
+      <span class="q-kind">Single</span>
+    </div>
+    <div class="q-sub">再来店ハガキの効果を左右する要素です</div>
+    <ul class="opts">
+      <li>院長の手書き風メッセージを入れる</li>
+      <li>顧客名差込（〇〇様へ）を前提にする</li>
+      <li>両方とも</li>
+      <li>印刷物らしくフォーマル</li>
+      <li>Decide for me</li>
+    </ul>
+  </div>
+
+  <!-- 13 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">13</span>
+      <span class="q-title">再来店訴求 vs 紹介キャンペーンの比重</span>
+      <span class="q-kind">Single</span>
+    </div>
+    <ul class="opts">
+      <li>再来店メイン、紹介はサブ（7:3）</li>
+      <li>両方同じくらい（5:5）</li>
+      <li>紹介キャンペーンメイン（3:7）</li>
+      <li>Decide for me</li>
+    </ul>
+  </div>
+
+  <!-- 14 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">14</span>
+      <span class="q-title">バリエーションはいくつ欲しいですか</span>
+      <span class="q-kind">Single</span>
+    </div>
+    <ul class="opts">
+      <li>1案じっくり</li>
+      <li>2案比較</li>
+      <li>3案比較</li>
+      <li>Decide for me</li>
+    </ul>
+  </div>
+
+  <!-- 15 -->
+  <div class="q">
+    <div class="q-head">
+      <span class="num">15</span>
+      <span class="q-title">その他、入れたい情報や避けたい表現があれば</span>
+      <span class="q-kind">Freeform</span>
+    </div>
+    <div class="q-sub">例：症状の例示、お客様の声、特定のキャッチコピーなど</div>
+    <div class="freeform-box">自由記述</div>
+  </div>
+
+  <footer>整体院DMハガキ制作 · 2026.04</footer>
+</div>
+</body>
+</html>
