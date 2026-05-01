@@ -41,25 +41,6 @@ jobs:
             echo "| [$filename]($f) | $summary |" >> INDEX.md
           done
 
-          {
-            echo ""
-            echo "## projects/"
-            echo ""
-            echo "| プロジェクト | 概要 |"
-            echo "|---|---|"
-          } >> INDEX.md
-
-          for d in $(find projects -mindepth 1 -maxdepth 1 -type d | sort); do
-            dirname=$(basename "$d")
-            logfile="$d/process-log.md"
-            if [ -f "$logfile" ]; then
-              summary=$(grep -m1 '> summary:' "$logfile" | sed 's/> summary: //' || echo "（summary未記入）")
-              echo "| [$dirname]($logfile) | $summary |" >> INDEX.md
-            else
-              echo "| [$dirname]($d) | （process-log.md未作成） |" >> INDEX.md
-            fi
-          done
-
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
