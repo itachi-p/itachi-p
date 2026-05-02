@@ -1,0 +1,17 @@
+#!/bin/bash
+SCRIPT="$HOME/repos/itachi-p/tools/timer_app.py"
+LOG="$HOME/.hypothesis-timer/launch.log"
+mkdir -p "$HOME/.hypothesis-timer"
+# .appはPATHが限られるため、利用可能なpython3を順に探索
+if [ -x /opt/homebrew/opt/python@3.13/bin/python3.13 ]; then
+  PYTHON=/opt/homebrew/opt/python@3.13/bin/python3.13
+elif [ -x /opt/homebrew/bin/python3 ]; then
+  PYTHON=/opt/homebrew/bin/python3
+elif command -v python3 >/dev/null 2>&1; then
+  PYTHON="$(command -v python3)"
+else
+  echo "python3 not found" >>"$LOG"
+  exit 127
+fi
+
+exec "$PYTHON" "$SCRIPT" 2>>"$LOG"

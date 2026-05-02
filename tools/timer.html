@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>仮説検証タイマー</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0f1117;
+    color: #e2e8f0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 1rem;
+  }
+
+  h1 {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #64748b;
+    margin-bottom: 2rem;
+    letter-spacing: 0.05em;
+  }
+
+  .timer-display {
+    font-size: 4.5rem;
+    font-variant-numeric: tabular-nums;
+    font-weight: 200;
+    letter-spacing: 0.05em;
+    color: #f1f5f9;
+    margin-bottom: 0.5rem;
+  }
+
+  .timer-display.paused { color: #64748b; }
+  .timer-display.idle { color: #f59e0b; }
+
+  .status-label {
+    font-size: 0.8rem;
+    color: #475569;
+    margin-bottom: 0.75rem;
+    min-height: 1.2em;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .total-display {
+    font-size: 1rem;
+    color: #64748b;
+    margin-bottom: 2rem;
+  }
+
+  .total-display span {
+    color: #94a3b8;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .controls {
+    display: flex;
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+  }
+
+  button {
+    padding: 0.6rem 1.4rem;
+    border: none;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: opacity 0.15s, transform 0.1s;
+  }
+
+  button:active { transform: scale(0.97); }
+  button:disabled { opacity: 0.3; cursor: default; }
+
+  .btn-start  { background: #22c55e; color: #0f1117; font-weight: 600; }
+  .btn-pause  { background: #f59e0b; color: #0f1117; }
+  .btn-finish { background: #ef4444; color: #fff; }
+
+  .settings {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 0.85rem;
+    color: #64748b;
+    margin-bottom: 2.5rem;
+  }
+
+  .settings input[type="number"] {
+    width: 4rem;
+    padding: 0.3rem 0.5rem;
+    background: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 6px;
+    color: #e2e8f0;
+    font-size: 0.9rem;
+    text-align: center;
+  }
+
+  .note-input {
+    width: 100%;
+    max-width: 480px;
+    padding: 0.5rem 0.75rem;
+    background: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    color: #e2e8f0;
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+    outline: none;
+  }
+
+  .note-input:focus { border-color: #475569; }
+  .note-input::placeholder { color: #475569; }
+
+  .history-section {
+    width: 100%;
+    max-width: 480px;
+  }
+
+  .history-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+  }
+
+  .history-header h2 {
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #475569;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .history-actions {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .btn-sm {
+    padding: 0.25rem 0.75rem;
+    font-size: 0.75rem;
+    background: #1e293b;
+    color: #94a3b8;
+    border: 1px solid #334155;
+    border-radius: 6px;
+  }
+
+  .btn-sm:hover { background: #334155; }
+
+  .btn-clear { color: #ef4444; }
+
+  .history-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .history-item {
+    background: #1e293b;
+    border-radius: 8px;
+    padding: 0.6rem 0.9rem;
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 0.85rem;
+  }
+
+  .history-date { color: #64748b; font-size: 0.75rem; }
+  .history-note { color: #cbd5e1; }
+  .history-duration {
+    color: #22c55e;
+    font-variant-numeric: tabular-nums;
+    font-weight: 500;
+  }
+
+  .empty-state {
+    color: #334155;
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 2rem;
+  }
+
+  .idle-warning {
+    font-size: 0.8rem;
+    color: #f59e0b;
+    margin-top: -1.5rem;
+    margin-bottom: 2rem;
+    min-height: 1.2em;
+  }
+</style>
+</head>
+<body>
+
+<h1>仮説検証タイマー</h1>
+
+<div class="timer-display" id="timerDisplay">00:00:00</div>
+<div class="status-label" id="statusLabel">待機中</div>
+<div class="idle-warning" id="idleWarning"></div>
+<div class="total-display">累積合計: <span id="totalDisplay">00:00:00</span></div>
+
+<div class="controls">
+  <button class="btn-start"  id="btnStart"  onclick="startTimer()">▶ 開始</button>
+  <button class="btn-pause"  id="btnPause"  onclick="togglePause()" disabled>⏸ 一時停止</button>
+  <button class="btn-finish" id="btnFinish" onclick="finishSession()" disabled>⏹ 終了・記録</button>
+</div>
+
+<div class="settings">
+  <label for="idleTimeout">アイドルタイムアウト:</label>
+  <input type="number" id="idleTimeout" value="15" min="1" max="120" onchange="saveSettings()">
+  <span>分</span>
+</div>
+
+<input type="text" class="note-input" id="noteInput" placeholder="メモ（仮説名など）を入力...">
+
+<div class="history-section">
+  <div class="history-header">
+    <h2>セッション履歴</h2>
+    <div class="history-actions">
+      <button class="btn-sm" onclick="exportCSV()">CSVエクスポート</button>
+      <button class="btn-sm btn-clear" onclick="clearHistory()">履歴クリア</button>
+    </div>
+  </div>
+  <div class="history-list" id="historyList"></div>
+</div>
+
+<script>
+  const STORAGE_KEY = 'hypothesis-timer-sessions';
+  const SETTINGS_KEY = 'hypothesis-timer-settings';
+
+  let startTime = null;
+  let elapsedBeforePause = 0;
+  let timerInterval = null;
+  let isRunning = false;
+  let isPaused = false;
+  let lastActivity = Date.now();
+  let idleCheckInterval = null;
+  let wasIdlePaused = false;
+
+  function loadSettings() {
+    const s = JSON.parse(localStorage.getItem(SETTINGS_KEY) || '{}');
+    if (s.idleTimeout) document.getElementById('idleTimeout').value = s.idleTimeout;
+  }
+
+  function saveSettings() {
+    localStorage.setItem(SETTINGS_KEY, JSON.stringify({
+      idleTimeout: parseInt(document.getElementById('idleTimeout').value)
+    }));
+  }
+
+  function getIdleTimeoutMs() {
+    return parseInt(document.getElementById('idleTimeout').value) * 60 * 1000;
+  }
+
+  function formatTime(ms) {
+    const s = Math.floor(ms / 1000);
+    const h = Math.floor(s / 3600);
+    const m = Math.floor((s % 3600) / 60);
+    const sec = s % 60;
+    return [h, m, sec].map(v => String(v).padStart(2, '0')).join(':');
+  }
+
+  function formatDate(ts) {
+    const d = new Date(ts);
+    return d.toLocaleDateString('ja-JP', { month: '2-digit', day: '2-digit' })
+      + ' ' + d.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' });
+  }
+
+  function getTotalElapsed() {
+    const sessions = getSessions();
+    return sessions.reduce((sum, s) => sum + s.duration, 0);
+  }
+
+  function getSessions() {
+    return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+  }
+
+  function saveSessions(sessions) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(sessions));
+  }
+
+  function updateDisplay() {
+    const elapsed = isRunning && !isPaused
+      ? elapsedBeforePause + (Date.now() - startTime)
+      : elapsedBeforePause;
+
+    const display = document.getElementById('timerDisplay');
+    display.textContent = formatTime(elapsed);
+    display.className = 'timer-display' + (isPaused ? (wasIdlePaused ? ' idle' : ' paused') : '');
+    document.getElementById('totalDisplay').textContent = formatTime(getTotalElapsed() + elapsed);
+  }
+
+  function setStatus(text) {
+    document.getElementById('statusLabel').textContent = text;
+  }
+
+  function startTimer() {
+    if (isRunning) return;
+    isRunning = true;
+    isPaused = false;
+    wasIdlePaused = false;
+    startTime = Date.now();
+    elapsedBeforePause = 0;
+    lastActivity = Date.now();
+
+    timerInterval = setInterval(updateDisplay, 1000);
+    startIdleCheck();
+
+    document.getElementById('btnStart').disabled = true;
+    document.getElementById('btnPause').disabled = false;
+    document.getElementById('btnFinish').disabled = false;
+    setStatus('計測中');
+    document.getElementById('idleWarning').textContent = '';
+    updateDisplay();
+  }
+
+  function togglePause() {
+    if (!isRunning) return;
+    if (!isPaused) {
+      pauseTimer(false);
+    } else {
+      resumeTimer();
+    }
+  }
+
+  function pauseTimer(fromIdle) {
+    if (isPaused) return;
+    isPaused = true;
+    wasIdlePaused = fromIdle;
+    elapsedBeforePause += Date.now() - startTime;
+    startTime = null;
+    document.getElementById('btnPause').textContent = '▶ 再開';
+    setStatus(fromIdle ? 'アイドル停止中' : '一時停止中');
+    if (fromIdle) {
+      document.getElementById('idleWarning').textContent =
+        `操作が${document.getElementById('idleTimeout').value}分間なかったため自動停止しました`;
+    }
+    updateDisplay();
+  }
+
+  function resumeTimer() {
+    if (!isPaused) return;
+    isPaused = false;
+    wasIdlePaused = false;
+    startTime = Date.now();
+    lastActivity = Date.now();
+    document.getElementById('btnPause').textContent = '⏸ 一時停止';
+    setStatus('計測中');
+    document.getElementById('idleWarning').textContent = '';
+    updateDisplay();
+  }
+
+  function finishSession() {
+    if (!isRunning) return;
+
+    const elapsed = isPaused
+      ? elapsedBeforePause
+      : elapsedBeforePause + (Date.now() - startTime);
+
+    const note = document.getElementById('noteInput').value.trim();
+    const sessions = getSessions();
+    sessions.unshift({ ts: Date.now(), duration: elapsed, note });
+    saveSessions(sessions);
+
+    clearInterval(timerInterval);
+    clearInterval(idleCheckInterval);
+    isRunning = false;
+    isPaused = false;
+    wasIdlePaused = false;
+    elapsedBeforePause = 0;
+    startTime = null;
+
+    document.getElementById('timerDisplay').textContent = '00:00:00';
+    document.getElementById('timerDisplay').className = 'timer-display';
+    document.getElementById('btnStart').disabled = false;
+    document.getElementById('btnPause').disabled = true;
+    document.getElementById('btnPause').textContent = '⏸ 一時停止';
+    document.getElementById('btnFinish').disabled = true;
+    document.getElementById('noteInput').value = '';
+    document.getElementById('idleWarning').textContent = '';
+    setStatus('待機中');
+    document.getElementById('totalDisplay').textContent = formatTime(getTotalElapsed());
+    renderHistory();
+  }
+
+  function startIdleCheck() {
+    clearInterval(idleCheckInterval);
+    idleCheckInterval = setInterval(() => {
+      if (!isRunning || isPaused) return;
+      if (Date.now() - lastActivity > getIdleTimeoutMs()) {
+        pauseTimer(true);
+      }
+    }, 10000);
+  }
+
+  function trackActivity() {
+    lastActivity = Date.now();
+    if (isRunning && isPaused && wasIdlePaused) {
+      resumeTimer();
+    }
+  }
+
+  ['mousemove', 'keydown', 'click', 'touchstart'].forEach(ev =>
+    document.addEventListener(ev, trackActivity, { passive: true })
+  );
+
+  function renderHistory() {
+    const sessions = getSessions();
+    const list = document.getElementById('historyList');
+    if (sessions.length === 0) {
+      list.innerHTML = '<div class="empty-state">まだ記録がありません</div>';
+      return;
+    }
+    list.innerHTML = sessions.map(s => `
+      <div class="history-item">
+        <div>
+          <div class="history-date">${formatDate(s.ts)}</div>
+          <div class="history-note">${s.note || '（メモなし）'}</div>
+        </div>
+        <div class="history-duration">${formatTime(s.duration)}</div>
+      </div>
+    `).join('');
+  }
+
+  function exportCSV() {
+    const sessions = getSessions();
+    if (sessions.length === 0) return;
+    const rows = [['日時', '時間(秒)', 'メモ']];
+    sessions.forEach(s => {
+      rows.push([new Date(s.ts).toLocaleString('ja-JP'), Math.floor(s.duration / 1000), s.note || '']);
+    });
+    const csv = rows.map(r => r.map(v => `"${v}"`).join(',')).join('\n');
+    const a = document.createElement('a');
+    a.href = 'data:text/csv;charset=utf-8,﻿' + encodeURIComponent(csv);
+    a.download = `timer-${new Date().toISOString().slice(0,10)}.csv`;
+    a.click();
+  }
+
+  function clearHistory() {
+    if (!confirm('履歴をすべて削除しますか？')) return;
+    saveSessions([]);
+    renderHistory();
+    if (!isRunning) document.getElementById('totalDisplay').textContent = '00:00:00';
+  }
+
+  loadSettings();
+  renderHistory();
+  document.getElementById('totalDisplay').textContent = formatTime(getTotalElapsed());
+</script>
+</body>
+</html>
