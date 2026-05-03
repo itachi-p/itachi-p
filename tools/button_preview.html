@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>ボタン色サンプル</title>
+<style>
+  body { background: #0f1117; padding: 40px; font-family: -apple-system, sans-serif; }
+  h2 { color: #94a3b8; font-size: 13px; margin: 24px 0 8px; letter-spacing: 0.1em; }
+  .row { display: flex; gap: 6px; align-items: center; margin-bottom: 8px; }
+  button {
+    border: none; border-radius: 5px; cursor: pointer;
+    font-family: 'Courier New', monospace;
+    padding: 4px 10px;
+  }
+  .label { color: #475569; font-size: 11px; margin-left: 12px; }
+
+  /* 案A: 提案中（明るい背景→濃い文字） */
+  .a-start  { background: #22c55e; color: #052e16; font-size: 13px; }
+  .a-pause  { background: #f59e0b; color: #431407; font-size: 13px; }
+  .a-stop   { background: #ef4444; color: #ffffff; font-size: 13px; }
+  .a-copy   { background: #2563eb; color: #ffffff; font-size: 20px; padding: 2px 10px; }
+
+  /* 案B: 比較用（現状の白文字） */
+  .b-start  { background: #22c55e; color: #ffffff; font-size: 13px; }
+  .b-pause  { background: #f59e0b; color: #ffffff; font-size: 13px; }
+  .b-stop   { background: #ef4444; color: #ffffff; font-size: 13px; }
+  .b-copy   { background: #1e293b; color: #94a3b8; font-size: 13px; }
+
+  /* 案C改: 前3つ=統一グリーン（やや薄め）、コピー=青 */
+  .c-start  { background: #16a34a; color: #ffffff; font-size: 13px; }
+  .c-pause  { background: #16a34a; color: #ffffff; font-size: 13px; }
+  .c-stop   { background: #16a34a; color: #ffffff; font-size: 13px; }
+  .c-copy   { background: #2563eb; color: #ffffff; font-size: 20px; padding: 2px 10px; }
+
+  hr { border: none; border-top: 1px solid #1e293b; margin: 20px 0; }
+</style>
+</head>
+<body>
+
+<h2>案A：明るい背景 → 濃い文字色（提案中）　コピーは青背景・白文字・大アイコン</h2>
+<div class="row">
+  <button class="a-start">▶ 開始</button>
+  <button class="a-pause">⏸</button>
+  <button class="a-stop">⏹ 停止</button>
+  <button class="a-copy">⎘</button>
+  <span class="label">※⎘ はfont-size:20px</span>
+</div>
+
+<hr>
+
+<h2>案B：現状（明るい背景 + 白文字 → 低コントラスト）</h2>
+<div class="row">
+  <button class="b-start">▶ 開始</button>
+  <button class="b-pause">⏸</button>
+  <button class="b-stop">⏹ 停止</button>
+  <button class="b-copy">⎘ コピー</button>
+  <span class="label">← 黄緑・黄色に白は見えにくい / ⎘ 小さい</span>
+</div>
+
+<hr>
+
+<h2>案C：各色を暗めに調整 → 全ボタン白文字で統一</h2>
+<div class="row">
+  <button class="c-start">▶ 開始</button>
+  <button class="c-pause">⏸</button>
+  <button class="c-stop">⏹ 停止</button>
+  <button class="c-copy">⎘</button>
+  <span class="label">※⎘ はfont-size:20px</span>
+</div>
+
+</body>
+</html>

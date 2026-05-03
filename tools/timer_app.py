@@ -145,23 +145,28 @@ class TimerApp:
                                    font=('Courier', 9), fg=FG3, bg=BG)
         self.total_lbl.pack(side='right')
 
-        # 3行目: ボタン群
+        # 3行目: ボタン群（1列）
         row3 = tk.Frame(self.compact_frame, bg=BG)
         row3.pack(fill='x', pady=(4, 0))
 
-        self.btn_start = self._btn(row3, '▶ 開始', GREEN, BG, self._start)
-        self.btn_start.pack(side='left', padx=(0, 4))
+        LGREEN = '#86efac'
+        LDARK  = '#14532d'
+        BLUE   = '#2563eb'
+        BTN_FONT = ('Helvetica', 11)
 
-        self.btn_pause = self._btn(row3, '⏸', AMBER, BG, self._toggle_pause)
-        self.btn_pause.pack(side='left', padx=(0, 4))
+        self.btn_start = self._btn(row3, '▶ 開始', LGREEN, LDARK, self._start, font=BTN_FONT)
+        self.btn_start.pack(side='left', padx=(0, 2))
+
+        self.btn_pause = self._btn(row3, '⏸', LGREEN, LDARK, self._toggle_pause, font=BTN_FONT)
+        self.btn_pause.pack(side='left', padx=(0, 2))
         self.btn_pause.config(state='disabled')
 
-        self.btn_finish = self._btn(row3, '⏹ 記録', RED, '#fff', self._finish)
-        self.btn_finish.pack(side='left')
+        self.btn_finish = self._btn(row3, '⏹ 停止', LGREEN, LDARK, self._finish, font=BTN_FONT)
+        self.btn_finish.pack(side='left', padx=(0, 2))
         self.btn_finish.config(state='disabled')
 
-        self.btn_copy = self._btn(row3, '📋 コピー', BG3, FG2, self._copy)
-        self.btn_copy.pack(side='right')
+        self.btn_copy = self._btn(row3, '⎘', BLUE, '#fff', self._copy, font=('Helvetica', 16), padx=6, pady=0)
+        self.btn_copy.pack(side='left')
 
         # 展開部分（折り畳み）
         self.expand_frame = tk.Frame(self.root, bg=BG)
@@ -222,11 +227,11 @@ class TimerApp:
         self.history_txt.pack(fill='both', expand=True)
         sb.config(command=self.history_txt.yview)
 
-    def _btn(self, parent, text, bg, fg, cmd, font=('Helvetica', 10), padx=8):
+    def _btn(self, parent, text, bg, fg, cmd, font=('Helvetica', 10), padx=8, pady=3):
         return tk.Button(parent, text=text, font=font,
                          fg=fg, bg=bg, relief='flat', bd=0,
                          activebackground=bg, activeforeground=fg,
-                         cursor='hand2', command=cmd, padx=padx, pady=3)
+                         cursor='hand2', command=cmd, padx=padx, pady=pady)
 
     def _bind_drag(self, widget):
         widget.bind('<Button-1>', self._drag_start)
@@ -250,7 +255,7 @@ class TimerApp:
         else:
             self.expand_frame.pack(fill='both', expand=True)
             self.toggle_btn.config(text='▴')
-            self.root.geometry('320x440')
+            self.root.geometry('300x440')
 
     # ── メモ ────────────────────────────────────────────────
 
