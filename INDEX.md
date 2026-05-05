@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-05-04 01:52 JST
+> 最終更新：2026-05-05 21:28 JST
 
 ---
 
@@ -16,3 +16,4 @@
 | [2026-05-02_claude-code-first-session.md](docs/2026-05-02_claude-code-first-session.md) | Claude Code初試用・セットアップと運用方針確定、積算タイマーアプリ生成（Python3製）／Codeタブ中心の運用方針は翌日に破棄 |
 | [2026-05-03_timer-app-debug-and-evaluation.md](docs/2026-05-03_timer-app-debug-and-evaluation.md) | Python3タイマーアプリ実装完了・.appバンドル化・Dock登録／Codeタブ評価：反応遅延・憲法違反・改悪を繰り返し破棄判断 |
 | [2026-05-04_cli-switch-and-git-fix.md](docs/2026-05-04_cli-switch-and-git-fix.md) | Codeタブ破棄・CLI運用への切り替え方針確定／Gitブランチ乖離の修正／タイマーUI要改善（直接修正予定） |
+| [2026-05-05_strategy-review-and-next-hypothesis.md](docs/2026-05-05_strategy-review-and-next-hypothesis.md) | 次仮説の方向性設定（朝引き鶏個人商店の代理販売）／AIに代替されない領域への問い直し／方針の定期的な見直しの必要性を認識 |
