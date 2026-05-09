@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-05-06 17:19 JST
+> 最終更新：2026-05-09 18:55 JST
 
 ---
 
@@ -19,3 +19,5 @@
 | [2026-05-05_strategy-review-and-next-hypothesis.md](docs/2026-05-05_strategy-review-and-next-hypothesis.md) | 次仮説の方向性設定（朝引き鶏個人商店の代理販売）／AIに代替されない領域への問い直し／方針の定期的な見直しの必要性を認識 |
 | [2026-05-06_keybinding-investigation-failed.md](docs/2026-05-06_keybinding-investigation-failed.md) | Claude Code CLIのキーバインド変更検証・4時間かけて「Enter以外での送信設定は不可能」と判明 |
 | [2026-05-06_meta-analysis-of-accumulated-docs_02.md](docs/2026-05-06_meta-analysis-of-accumulated-docs_02.md) | 蓄積docsの構造化分析——9docs中78%がメタ運用・実顧客向け仮説検証ゼロ、フォーマットv2案と「戦略と設計」フェーズへのシフトを提案 |
+| [2026-05-07_design-draw-ban_uzuz-goal-alignment.md](docs/2026-05-07_design-draw-ban_uzuz-goal-alignment.md) |  |
+| [2026-05-08_uzuz-assessment-start_handover-abolished.md](docs/2026-05-08_uzuz-assessment-start_handover-abolished.md) |  |
