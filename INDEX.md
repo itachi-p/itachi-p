@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-05-09 18:55 JST
+> 最終更新：2026-05-14 20:21 JST
 
 ---
 
@@ -21,3 +21,7 @@
 | [2026-05-06_meta-analysis-of-accumulated-docs_02.md](docs/2026-05-06_meta-analysis-of-accumulated-docs_02.md) | 蓄積docsの構造化分析——9docs中78%がメタ運用・実顧客向け仮説検証ゼロ、フォーマットv2案と「戦略と設計」フェーズへのシフトを提案 |
 | [2026-05-07_design-draw-ban_uzuz-goal-alignment.md](docs/2026-05-07_design-draw-ban_uzuz-goal-alignment.md) |  |
 | [2026-05-08_uzuz-assessment-start_handover-abolished.md](docs/2026-05-08_uzuz-assessment-start_handover-abolished.md) |  |
+| [2026-05-09_pattern-log.md](docs/2026-05-09_pattern-log.md) |  |
+| [2026-05-14_borderless-application-strategy.md](docs/2026-05-14_borderless-application-strategy.md) |  |
+| [2026-05-14_tool-selection-note.md](docs/2026-05-14_tool-selection-note.md) |  |
+| [2026-05-15_a-domain-selection.md](docs/2026-05-15_a-domain-selection.md) |  |
