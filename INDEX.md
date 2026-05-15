@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-05-14 20:21 JST
+> 最終更新：2026-05-15 23:33 JST
 
 ---
 
@@ -25,3 +25,4 @@
 | [2026-05-14_borderless-application-strategy.md](docs/2026-05-14_borderless-application-strategy.md) |  |
 | [2026-05-14_tool-selection-note.md](docs/2026-05-14_tool-selection-note.md) |  |
 | [2026-05-15_a-domain-selection.md](docs/2026-05-15_a-domain-selection.md) |  |
+| [2026-05-15_ボーダレス・ジャパン応募案.md](docs/2026-05-15_ボーダレス・ジャパン応募案.md) |  |
