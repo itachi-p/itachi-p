@@ -88,6 +88,45 @@ ChatとCodeは構造的特性が異なるため、現プロジェクトのフェ
 
 ---
 
+## Mermaid記法の運用方針(2026-05-18追記)
+
+### Mermaidとは
+
+グラフ構造をテキストで記述するDSL(ドメイン固有言語)。マークダウンファイルの` ```mermaid〜``` `ブロック内に書くと、GitHub・VSCode・Obsidianなどが自動的に図としてレンダリングする。PNGを別管理せずdocsに図を埋め込める。
+
+### If-then 使い分けルール
+
+- **If ATT(ambitious-target-trees)を生成する → then Mermaid(flowchart TD)を使う**
+  - 木構造との相性が良く、docsに直接埋め込める
+  - GitHubで自動レンダリングされるのでPNG管理が不要
+
+- **If マインドマップを生成する → then 状況による**
+  - 簡易な階層構造ならMermaid(mindmap記法)で試みる
+  - 複雑な放射状レイアウトが必要ならPNG静画のまま
+
+- **If TOCfEのクラウド図を生成する → then PNG静画を維持する**
+  - 左右対称の特殊構造がMermaidでは自然に表現できない
+  - flowchart LRで代替表現は可能だが完全再現は難しく、コストに見合わない
+
+- **If ロジックブランチを生成する → then Mermaid(flowchart TD)を試みる**
+  - 因果関係の木構造はMermaidと相性が良い
+
+### Mermaidの主要記法(参照用)
+
+```
+flowchart TD   // 上から下への階層図(ATT、ロジックブランチ向き)
+flowchart LR   // 左から右への流れ図
+mindmap        // 放射状のマインドマップ
+sequenceDiagram // シーケンス図
+gantt          // ガントチャート
+```
+
+### メタ原則
+
+「ツールの価値は文脈依存」と同様に、Mermaidも万能ではない。図の種類とツールの相性で判断する。テキストとして管理できる図はMermaid化を優先するが、無理に使わない。
+
+---
+
 ## 次の検証ポイント
 
 5/20頃のCode実験後に追記する内容:
