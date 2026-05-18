@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-05-18 12:39 JST
+> 最終更新：2026-05-18 21:59 JST
 
 ---
 
@@ -29,4 +29,7 @@
 | [2026-05-16_disability-employment-simulation-start.md](docs/2026-05-16_disability-employment-simulation-start.md) |  |
 | [2026-05-17_mindmap-outline.md](docs/2026-05-17_mindmap-outline.md) |  |
 | [2026-05-17_mindmap-tool-policy.md](docs/2026-05-17_mindmap-tool-policy.md) |  |
+| [2026-05-18_ai-tool-integration-assumption-update.md](docs/2026-05-18_ai-tool-integration-assumption-update.md) | PNG→マインドマップ変換の方針検討中に、AI回答の前提（中間ファイル必須）が既に古かったことが判明。サービス側AI内包を前提とする判断フレームに更新。 |
 | [2026-05-18_habit-design-meta-and-sleep-case.md](docs/2026-05-18_habit-design-meta-and-sleep-case.md) |  |
+| [2026-05-18_taglog24-social-structure-analysis.md](docs/2026-05-18_taglog24-social-structure-analysis.md) |  |
+| [2026-05-18_taglog24-thought-log.md](docs/2026-05-18_taglog24-thought-log.md) |  |
