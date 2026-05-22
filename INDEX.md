@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-05-22 00:14 JST
+> 最終更新：2026-05-23 03:22 JST
 
 ---
 
@@ -33,3 +33,4 @@
 | [2026-05-18_habit-design-meta-and-sleep-case.md](docs/2026-05-18_habit-design-meta-and-sleep-case.md) |  |
 | [2026-05-18_taglog24-social-structure-analysis.md](docs/2026-05-18_taglog24-social-structure-analysis.md) |  |
 | [2026-05-21_geekly-pivot-to-code.md](docs/2026-05-21_geekly-pivot-to-code.md) |  |
+| [2026-05-23_communication-habit-correction.md](docs/2026-05-23_communication-habit-correction.md) |  |
