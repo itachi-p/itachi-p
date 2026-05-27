@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-05-26 14:44 JST
+> 最終更新：2026-05-27 23:54 JST
 
 ---
 
@@ -35,3 +35,6 @@
 | [2026-05-21_geekly-pivot-to-code.md](docs/2026-05-21_geekly-pivot-to-code.md) |  |
 | [2026-05-23_communication-habit-correction.md](docs/2026-05-23_communication-habit-correction.md) |  |
 | [2026-05-25_resume-submission-and-skills-decision.md](docs/2026-05-25_resume-submission-and-skills-decision.md) |  |
+| [2026-05-26_claude-skills-setup-and-behavioral-rules.md](docs/2026-05-26_claude-skills-setup-and-behavioral-rules.md) | Claude Skillsの仕組み検証・thinking-logスキル登録・Pro停止・2つの行動ルール制定 |
+| [2026-05-26_skills-setup-and-sleep-rule.md](docs/2026-05-26_skills-setup-and-sleep-rule.md) | Skillsの仕組み理解・thinking-logスキル登録・0時就寝IF-Thenルール制定 |
+| [2026-05-27_podcast-criticism-comment.md](docs/2026-05-27_podcast-criticism-comment.md) | 応援しているあるPodcast番組の最新シリーズへの批判的コメント投稿と、その判断根拠・思考ログ固有名詞方針の確定 |
