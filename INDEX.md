@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-05-27 23:54 JST
+> 最終更新：2026-06-05 00:09 JST
 
 ---
 
@@ -38,3 +38,4 @@
 | [2026-05-26_claude-skills-setup-and-behavioral-rules.md](docs/2026-05-26_claude-skills-setup-and-behavioral-rules.md) | Claude Skillsの仕組み検証・thinking-logスキル登録・Pro停止・2つの行動ルール制定 |
 | [2026-05-26_skills-setup-and-sleep-rule.md](docs/2026-05-26_skills-setup-and-sleep-rule.md) | Skillsの仕組み理解・thinking-logスキル登録・0時就寝IF-Thenルール制定 |
 | [2026-05-27_podcast-criticism-comment.md](docs/2026-05-27_podcast-criticism-comment.md) | 応援しているあるPodcast番組の最新シリーズへの批判的コメント投稿と、その判断根拠・思考ログ固有名詞方針の確定 |
+| [2026-06-04_action-before-verification.md](docs/2026-06-04_action-before-verification.md) | 思考ログの目的を「検証不十分な仮説のまま素早く行動し、その結果を後日検証する」ための運用へ方針転換。 |
