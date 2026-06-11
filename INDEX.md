@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-06-10 23:42 JST
+> 最終更新：2026-06-12 06:36 JST
 
 ---
 
@@ -40,4 +40,5 @@
 | [2026-05-27_podcast-criticism-comment.md](docs/2026-05-27_podcast-criticism-comment.md) | 応援しているあるPodcast番組の最新シリーズへの批判的コメント投稿と、その判断根拠・思考ログ固有名詞方針の確定 |
 | [2026-06-04_action-before-verification.md](docs/2026-06-04_action-before-verification.md) | 思考ログの目的を「検証不十分な仮説のまま素早く行動し、その結果を後日検証する」ための運用へ方針転換。 |
 | [2026-06-10_update-on-strategy-framework.md](docs/2026-06-10_update-on-strategy-framework.md) | Podcast「ぼくらの戦略論」第1話を契機とした、Why・What・最上段のHow（戦略）の構造的再整理およびGoogle系AI環境（NotebookLM等）への移行判断ログ。 |
+| [2026-06-12_why-strategy-reframing.md](docs/2026-06-12_why-strategy-reframing.md) | Whyを維持したままWhatと戦略を変更できる可能性についての仮説整理 |
 | [ThinkLog-saved.md](docs/ThinkLog-saved.md) |  |
