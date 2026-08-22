@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-06-12 06:36 JST
+> 最終更新：2026-08-22 20:36 JST
 
 ---
 
@@ -41,4 +41,5 @@
 | [2026-06-04_action-before-verification.md](docs/2026-06-04_action-before-verification.md) | 思考ログの目的を「検証不十分な仮説のまま素早く行動し、その結果を後日検証する」ための運用へ方針転換。 |
 | [2026-06-10_update-on-strategy-framework.md](docs/2026-06-10_update-on-strategy-framework.md) | Podcast「ぼくらの戦略論」第1話を契機とした、Why・What・最上段のHow（戦略）の構造的再整理およびGoogle系AI環境（NotebookLM等）への移行判断ログ。 |
 | [2026-06-12_why-strategy-reframing.md](docs/2026-06-12_why-strategy-reframing.md) | Whyを維持したままWhatと戦略を変更できる可能性についての仮説整理 |
+| [2026-08-22_output-format-mismatch.md](docs/2026-08-22_output-format-mismatch.md) | 公開直前に出た修正はほぼ全て「主張と出力形式の不一致」で、本文の読み返しでは検出できず、形式ごとに検査軸を変えたときだけ露出した。 |
 | [ThinkLog-saved.md](docs/ThinkLog-saved.md) |  |
