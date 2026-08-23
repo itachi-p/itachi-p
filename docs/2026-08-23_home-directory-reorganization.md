@@ -47,6 +47,19 @@ cwdという偶然の要因が配置を決めていた。
   稼働中のプロセスが保持する値のため、その場での書き換えはリスクが大きいと判断し見送った。
   新パスでClaude Codeを起動すれば新規エントリが作られるため、旧エントリは自然に不要になる。
 
+## 追記（同日）：heiwa-sns・hall-analytics-demoをrepos/へ再移動
+
+当初「用途終了」として archive/ へ移動した `heiwa-sns` と `hall-analytics-demo` は、
+どちらも稼働アプリであり今後更新する可能性がゼロではないと判断し、`repos/` へ
+再移動した。「現役／用途終了」の分類基準は、単に開発が止まっているかどうかではなく、
+**今後更新される見込みがあるかどうか**で判定する。
+
+- `repos/` へ再移動：`heiwa-sns`, `hall-analytics-demo`
+- `archive/` に残るもの：`drill`（練習用・使い捨て）, `resume-source`（従来型就職活動の
+  停止に紐づき更新見込みなし）
+
+`~/archive/README.md` から該当2件の記述を削除済み。
+
 ## コミットメッセージ案
 
 ```
@@ -54,4 +67,6 @@ docs: record home directory reorganization decision
 
 場所別分類と目的別分類が混在していたホーム直下の配置を、
 「現役／用途終了」の1軸（repos/・archive/）に統一した経緯を記録。
+同日中にheiwa-snsとhall-analytics-demoをarchive/からrepos/へ
+再移動した判断も追記。
 ```
