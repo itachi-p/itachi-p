@@ -60,6 +60,14 @@ cwdという偶然の要因が配置を決めていた。
 
 `~/archive/README.md` から該当2件の記述を削除済み。
 
+## 追記（同日）：habit_replacement_appの漏れを追加移動
+
+当初の現状確認の対象（repos/・heiwa-sns/・src/・work/）に含まれておらず、
+ホーム直下に直接置かれたままだった `habit_replacement_app`（Flutter、
+GitHubリモートあり）が後日発覚。`repos/` へ追加移動した（`mv`、remote・
+git status・履歴は移動前と同一）。未コミットの変更（`ai_backups/`, `build/`
+配下）が残っていたが、ディレクトリごとの移動のため内容の損失はない。
+
 ## コミットメッセージ案
 
 ```
@@ -68,5 +76,6 @@ docs: record home directory reorganization decision
 場所別分類と目的別分類が混在していたホーム直下の配置を、
 「現役／用途終了」の1軸（repos/・archive/）に統一した経緯を記録。
 同日中にheiwa-snsとhall-analytics-demoをarchive/からrepos/へ
-再移動した判断も追記。
+再移動した判断、および当初の確認対象に含まれていなかった
+habit_replacement_appの追加移動も追記。
 ```
