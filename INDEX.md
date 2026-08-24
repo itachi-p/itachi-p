@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-08-23 16:59 JST
+> 最終更新：2026-08-24 23:42 JST
 
 ---
 
@@ -44,5 +44,6 @@
 | [2026-08-22_output-format-mismatch.md](docs/2026-08-22_output-format-mismatch.md) | 公開直前に出た修正はほぼ全て「主張と出力形式の不一致」で、本文の読み返しでは検出できず、形式ごとに検査軸を変えたときだけ露出した。 |
 | [2026-08-23_home-directory-reorganization.md](docs/2026-08-23_home-directory-reorganization.md) | ホーム直下に混在していた「場所による分類」と「目的による分類」を「現役／用途終了」の1軸に統一し、repos/とarchive/に整理した。 |
 | [2026-08-23_reverse-lookup-verification-design.md](docs/2026-08-23_reverse-lookup-verification-design.md) | 集計と一覧が同一SQL式を通る設計では件数不一致はSQLでは検出できずHTTP経由でしか検証できないこと、およびその検証時にRSCペイロードの二重カウントに注意すべきことを記録。あわせてリポジトリ横断ルールは各リポジトリのCLAUDE.mdではなく`~/.claude/CLAUDE.md`から参照させる必要があることを記録。 |
+| [20260824_categorytaxonomydbsync.md](docs/20260824_categorytaxonomydbsync.md) | アクロニム辞書のカテゴリを1:1対応からタグ方式へ移行する方針決定と、実DBとリポジトリのスキーマ乖離を解消する仕組みの導入 |
 | [ThinkLog-saved.md](docs/ThinkLog-saved.md) |  |
 | [surface-selection-rules.md](docs/surface-selection-rules.md) |  |
