@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-08-24 23:51 JST
+> 最終更新：2026-08-26 10:09 JST
 
 ---
 
@@ -45,5 +45,7 @@
 | [2026-08-23_home-directory-reorganization.md](docs/2026-08-23_home-directory-reorganization.md) | ホーム直下に混在していた「場所による分類」と「目的による分類」を「現役／用途終了」の1軸に統一し、repos/とarchive/に整理した。 |
 | [2026-08-23_reverse-lookup-verification-design.md](docs/2026-08-23_reverse-lookup-verification-design.md) | 集計と一覧が同一SQL式を通る設計では件数不一致はSQLでは検出できずHTTP経由でしか検証できないこと、およびその検証時にRSCペイロードの二重カウントに注意すべきことを記録。あわせてリポジトリ横断ルールは各リポジトリのCLAUDE.mdではなく`~/.claude/CLAUDE.md`から参照させる必要があることを記録。 |
 | [2026-08-24_category-taxonomy-db-sync.md](docs/2026-08-24_category-taxonomy-db-sync.md) | アクロニム辞書のカテゴリを1:1対応からタグ方式へ移行する方針決定と、実DBとリポジトリのスキーマ乖離を解消する仕組みの導入 |
+| [2026-08-26_agent-handoff-mistakes.md](docs/2026-08-26_agent-handoff-mistakes.md) | AIエージェントに作業を渡す際に実際に踏んだ7つの失敗と、次回そのまま使える事前検査の規則 |
+| [2026-08-26_tag-taxonomy-and-input-filter.md](docs/2026-08-26_tag-taxonomy-and-input-filter.md) | カテゴリを原子タグへ分解して複数付与を可能にし、ゴミデータの発生源を定期掃除から登録時フィルタへ移した判断の記録 |
 | [ThinkLog-saved.md](docs/ThinkLog-saved.md) |  |
 | [surface-selection-rules.md](docs/surface-selection-rules.md) |  |
