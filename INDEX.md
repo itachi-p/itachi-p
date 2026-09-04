@@ -1,7 +1,7 @@
 # Index
 
 > このファイルはGitHub Actionsによって自動更新されます。手動編集は不要です。
-> 最終更新：2026-08-26 22:47 JST
+> 最終更新：2026-09-04 09:35 JST
 
 ---
 
@@ -48,5 +48,6 @@
 | [2026-08-26_acronym-dict-session-wrapup.md](docs/2026-08-26_acronym-dict-session-wrapup.md) | アクロニム辞書アプリの逆引きUI改善・ヘルプ精度検証を終え、開発を一旦停止し様子見フェーズへ移行する判断をした |
 | [2026-08-26_agent-handoff-mistakes.md](docs/2026-08-26_agent-handoff-mistakes.md) | AIエージェントに作業を渡す際に実際に踏んだ7つの失敗と、次回そのまま使える事前検査の規則 |
 | [2026-08-26_tag-taxonomy-and-input-filter.md](docs/2026-08-26_tag-taxonomy-and-input-filter.md) | カテゴリを原子タグへ分解して複数付与を可能にし、ゴミデータの発生源を定期掃除から登録時フィルタへ移した判断の記録 |
+| [2026-09-04_acronym-tag-redesign-and-inclusion-rule.md](docs/2026-09-04_acronym-tag-redesign-and-inclusion-rule.md) | アクロニム辞書231件のタグ再設計と、収録可否を「知名度」でなく「その文脈で誤読が起きるか」で判定する基準の確立 |
 | [ThinkLog-saved.md](docs/ThinkLog-saved.md) |  |
 | [surface-selection-rules.md](docs/surface-selection-rules.md) |  |
